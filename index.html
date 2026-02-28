@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Jarvis NPTE Question Generator</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div class="app-container">
+    <header class="app-header">
+      <h1>Jarvis NPTE Question Generator</h1>
+      <div class="controls">
+        <label>
+          Category
+          <select id="categoryFilter">
+            <option value="all">All</option>
+            <option value="MSK">MSK</option>
+            <option value="Neuro">Neuro</option>
+            <option value="Cardio">Cardio</option>
+            <option value="Modalities">Modalities</option>
+            <option value="Acute Care">Acute Care</option>
+            <option value="Peds">Peds</option>
+            <option value="Geriatrics">Geriatrics</option>
+          </select>
+        </label>
+
+        <label>
+          Difficulty
+          <select id="difficultyFilter">
+            <option value="all">All</option>
+            <option value="easy">Easy</option>
+            <option value="medium">Medium</option>
+            <option value="hard">Hard</option>
+          </select>
+        </label>
+
+        <button id="generateBtn" class="btn primary">Generate</button>
+      </div>
+    </header>
+
+    <main class="question-card">
+      <p id="questionMeta" class="question-meta">Select filters and generate a question.</p>
+      <h2 id="questionText">Your NPTE-style question will appear here.</h2>
+
+      <div id="answersContainer" class="answers-grid"></div>
+
+      <p id="feedbackText" class="feedback"></p>
+      <p id="explanationText" class="explanation"></p>
+
+      <button id="nextBtn" class="btn" disabled>Next Question</button>
+    </main>
+
+    <footer class="app-footer">
+      <div class="scoreboard">
+        <span>Score: <strong id="scoreValue">0</strong></span>
+        <span>Total Questions: <strong id="totalValue">0</strong></span>
+      </div>
+      <button id="resetBtn" class="btn danger">Reset</button>
+    </footer>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
