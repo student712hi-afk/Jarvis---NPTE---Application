@@ -1,0 +1,2802 @@
+[
+  {
+    "id": "auto",
+    "category": "MSK",
+    "difficulty": "easy",
+    "stem": "A 60-year-old seen in a patient's home has rotator cuff tear. Which choice best addresses safety and function?",
+    "options": [
+      "Use condition-specific progression with attention to tissue healing and symptoms",
+      "Prescribe complete immobilization despite medical clearance",
+      "Advance loading aggressively without reassessment",
+      "Ignore patient-reported aggravating factors"
+    ],
+    "correctIndex": 0,
+    "rationale": "The correct answer reflects standard orthopedic rehabilitation principles and appropriate progression."
+  },
+  {
+    "id": "auto",
+    "category": "MSK",
+    "difficulty": "medium",
+    "stem": "A 60-year-old seen in a patient's home has ACL reconstruction. What is the safest intervention?",
+    "options": [
+      "Use condition-specific progression with attention to tissue healing and symptoms",
+      "Prescribe complete immobilization despite medical clearance",
+      "Advance loading aggressively without reassessment",
+      "Ignore patient-reported aggravating factors"
+    ],
+    "correctIndex": 0,
+    "rationale": "The correct answer reflects standard orthopedic rehabilitation principles and appropriate progression."
+  },
+  {
+    "id": "auto",
+    "category": "MSK",
+    "difficulty": "hard",
+    "stem": "A 33-year-old seen in a patient's home has meniscal injury. Which choice best addresses safety and function?",
+    "options": [
+      "Use condition-specific progression with attention to tissue healing and symptoms",
+      "Prescribe complete immobilization despite medical clearance",
+      "Advance loading aggressively without reassessment",
+      "Ignore patient-reported aggravating factors"
+    ],
+    "correctIndex": 0,
+    "rationale": "The correct answer reflects standard orthopedic rehabilitation principles and appropriate progression."
+  },
+  {
+    "id": "auto",
+    "category": "MSK",
+    "difficulty": "easy",
+    "stem": "A 78-year-old seen in a patient's home has knee osteoarthritis. Which finding should the PT prioritize?",
+    "options": [
+      "Use condition-specific progression with attention to tissue healing and symptoms",
+      "Prescribe complete immobilization despite medical clearance",
+      "Advance loading aggressively without reassessment",
+      "Ignore patient-reported aggravating factors"
+    ],
+    "correctIndex": 0,
+    "rationale": "The correct answer reflects standard orthopedic rehabilitation principles and appropriate progression."
+  },
+  {
+    "id": "auto",
+    "category": "MSK",
+    "difficulty": "medium",
+    "stem": "A 27-year-old seen in a school gym has posterior total hip arthroplasty precautions. Which response is most consistent with NPTE-level decision making?",
+    "options": [
+      "Use condition-specific progression with attention to tissue healing and symptoms",
+      "Prescribe complete immobilization despite medical clearance",
+      "Advance loading aggressively without reassessment",
+      "Ignore patient-reported aggravating factors"
+    ],
+    "correctIndex": 0,
+    "rationale": "The correct answer reflects standard orthopedic rehabilitation principles and appropriate progression."
+  },
+  {
+    "id": "auto",
+    "category": "MSK",
+    "difficulty": "hard",
+    "stem": "A 30-year-old seen in a acute care unit has total knee arthroplasty rehabilitation. Which action is BEST?",
+    "options": [
+      "Use condition-specific progression with attention to tissue healing and symptoms",
+      "Prescribe complete immobilization despite medical clearance",
+      "Advance loading aggressively without reassessment",
+      "Ignore patient-reported aggravating factors"
+    ],
+    "correctIndex": 0,
+    "rationale": "The correct answer reflects standard orthopedic rehabilitation principles and appropriate progression."
+  },
+  {
+    "id": "auto",
+    "category": "MSK",
+    "difficulty": "easy",
+    "stem": "A 75-year-old seen in a school gym has lumbar radiculopathy. Which choice best addresses safety and function?",
+    "options": [
+      "Use condition-specific progression with attention to tissue healing and symptoms",
+      "Prescribe complete immobilization despite medical clearance",
+      "Advance loading aggressively without reassessment",
+      "Ignore patient-reported aggravating factors"
+    ],
+    "correctIndex": 0,
+    "rationale": "The correct answer reflects standard orthopedic rehabilitation principles and appropriate progression."
+  },
+  {
+    "id": "auto",
+    "category": "MSK",
+    "difficulty": "medium",
+    "stem": "A 78-year-old seen in a skilled nursing facility has grade II lateral ankle sprain. Which finding should the PT prioritize?",
+    "options": [
+      "Use condition-specific progression with attention to tissue healing and symptoms",
+      "Prescribe complete immobilization despite medical clearance",
+      "Advance loading aggressively without reassessment",
+      "Ignore patient-reported aggravating factors"
+    ],
+    "correctIndex": 0,
+    "rationale": "The correct answer reflects standard orthopedic rehabilitation principles and appropriate progression."
+  },
+  {
+    "id": "auto",
+    "category": "MSK",
+    "difficulty": "hard",
+    "stem": "A 75-year-old seen in a acute care unit has Achilles tendinopathy. What is the MOST appropriate next step?",
+    "options": [
+      "Use condition-specific progression with attention to tissue healing and symptoms",
+      "Prescribe complete immobilization despite medical clearance",
+      "Advance loading aggressively without reassessment",
+      "Ignore patient-reported aggravating factors"
+    ],
+    "correctIndex": 0,
+    "rationale": "The correct answer reflects standard orthopedic rehabilitation principles and appropriate progression."
+  },
+  {
+    "id": "auto",
+    "category": "MSK",
+    "difficulty": "easy",
+    "stem": "A 21-year-old seen in a acute care unit has healed distal radius fracture. What is the safest intervention?",
+    "options": [
+      "Use condition-specific progression with attention to tissue healing and symptoms",
+      "Prescribe complete immobilization despite medical clearance",
+      "Advance loading aggressively without reassessment",
+      "Ignore patient-reported aggravating factors"
+    ],
+    "correctIndex": 0,
+    "rationale": "The correct answer reflects standard orthopedic rehabilitation principles and appropriate progression."
+  },
+  {
+    "id": "auto",
+    "category": "MSK",
+    "difficulty": "medium",
+    "stem": "A 39-year-old seen in a patient's home has adhesive capsulitis. Which action is BEST?",
+    "options": [
+      "Use condition-specific progression with attention to tissue healing and symptoms",
+      "Prescribe complete immobilization despite medical clearance",
+      "Advance loading aggressively without reassessment",
+      "Ignore patient-reported aggravating factors"
+    ],
+    "correctIndex": 0,
+    "rationale": "The correct answer reflects standard orthopedic rehabilitation principles and appropriate progression."
+  },
+  {
+    "id": "auto",
+    "category": "MSK",
+    "difficulty": "hard",
+    "stem": "A 60-year-old seen in a intensive care unit has patellofemoral pain syndrome. Which choice best addresses safety and function?",
+    "options": [
+      "Use condition-specific progression with attention to tissue healing and symptoms",
+      "Prescribe complete immobilization despite medical clearance",
+      "Advance loading aggressively without reassessment",
+      "Ignore patient-reported aggravating factors"
+    ],
+    "correctIndex": 0,
+    "rationale": "The correct answer reflects standard orthopedic rehabilitation principles and appropriate progression."
+  },
+  {
+    "id": "auto",
+    "category": "MSK",
+    "difficulty": "easy",
+    "stem": "A 72-year-old seen in a outpatient clinic has femoral shaft fracture status post fixation. What is the safest intervention?",
+    "options": [
+      "Use condition-specific progression with attention to tissue healing and symptoms",
+      "Prescribe complete immobilization despite medical clearance",
+      "Advance loading aggressively without reassessment",
+      "Ignore patient-reported aggravating factors"
+    ],
+    "correctIndex": 0,
+    "rationale": "The correct answer reflects standard orthopedic rehabilitation principles and appropriate progression."
+  },
+  {
+    "id": "auto",
+    "category": "MSK",
+    "difficulty": "medium",
+    "stem": "A 78-year-old seen in a intensive care unit has hamstring strain. Which choice best addresses safety and function?",
+    "options": [
+      "Use condition-specific progression with attention to tissue healing and symptoms",
+      "Prescribe complete immobilization despite medical clearance",
+      "Advance loading aggressively without reassessment",
+      "Ignore patient-reported aggravating factors"
+    ],
+    "correctIndex": 0,
+    "rationale": "The correct answer reflects standard orthopedic rehabilitation principles and appropriate progression."
+  },
+  {
+    "id": "auto",
+    "category": "MSK",
+    "difficulty": "hard",
+    "stem": "A 18-year-old seen in a skilled nursing facility has greater trochanteric pain syndrome. What is the MOST appropriate next step?",
+    "options": [
+      "Use condition-specific progression with attention to tissue healing and symptoms",
+      "Prescribe complete immobilization despite medical clearance",
+      "Advance loading aggressively without reassessment",
+      "Ignore patient-reported aggravating factors"
+    ],
+    "correctIndex": 0,
+    "rationale": "The correct answer reflects standard orthopedic rehabilitation principles and appropriate progression."
+  },
+  {
+    "id": "auto",
+    "category": "MSK",
+    "difficulty": "easy",
+    "stem": "A 60-year-old seen in a skilled nursing facility has carpal tunnel syndrome. Which response is most consistent with NPTE-level decision making?",
+    "options": [
+      "Use condition-specific progression with attention to tissue healing and symptoms",
+      "Prescribe complete immobilization despite medical clearance",
+      "Advance loading aggressively without reassessment",
+      "Ignore patient-reported aggravating factors"
+    ],
+    "correctIndex": 0,
+    "rationale": "The correct answer reflects standard orthopedic rehabilitation principles and appropriate progression."
+  },
+  {
+    "id": "auto",
+    "category": "MSK",
+    "difficulty": "medium",
+    "stem": "A 57-year-old seen in a patient's home has cervical radiculopathy. What is the MOST appropriate next step?",
+    "options": [
+      "Use condition-specific progression with attention to tissue healing and symptoms",
+      "Prescribe complete immobilization despite medical clearance",
+      "Advance loading aggressively without reassessment",
+      "Ignore patient-reported aggravating factors"
+    ],
+    "correctIndex": 0,
+    "rationale": "The correct answer reflects standard orthopedic rehabilitation principles and appropriate progression."
+  },
+  {
+    "id": "auto",
+    "category": "MSK",
+    "difficulty": "hard",
+    "stem": "A 84-year-old seen in a intensive care unit has lumbar spondylolisthesis. What should be done first?",
+    "options": [
+      "Use condition-specific progression with attention to tissue healing and symptoms",
+      "Prescribe complete immobilization despite medical clearance",
+      "Advance loading aggressively without reassessment",
+      "Ignore patient-reported aggravating factors"
+    ],
+    "correctIndex": 0,
+    "rationale": "The correct answer reflects standard orthopedic rehabilitation principles and appropriate progression."
+  },
+  {
+    "id": "auto",
+    "category": "MSK",
+    "difficulty": "easy",
+    "stem": "A 39-year-old seen in a patient's home has plantar fasciitis. Which response is most consistent with NPTE-level decision making?",
+    "options": [
+      "Use condition-specific progression with attention to tissue healing and symptoms",
+      "Prescribe complete immobilization despite medical clearance",
+      "Advance loading aggressively without reassessment",
+      "Ignore patient-reported aggravating factors"
+    ],
+    "correctIndex": 0,
+    "rationale": "The correct answer reflects standard orthopedic rehabilitation principles and appropriate progression."
+  },
+  {
+    "id": "auto",
+    "category": "MSK",
+    "difficulty": "medium",
+    "stem": "A 18-year-old seen in a acute care unit has biceps tendinopathy. What is the MOST appropriate next step?",
+    "options": [
+      "Use condition-specific progression with attention to tissue healing and symptoms",
+      "Prescribe complete immobilization despite medical clearance",
+      "Advance loading aggressively without reassessment",
+      "Ignore patient-reported aggravating factors"
+    ],
+    "correctIndex": 0,
+    "rationale": "The correct answer reflects standard orthopedic rehabilitation principles and appropriate progression."
+  },
+  {
+    "id": "auto",
+    "category": "MSK",
+    "difficulty": "hard",
+    "stem": "A 54-year-old seen in a acute care unit has MCL sprain. Which response is most consistent with NPTE-level decision making?",
+    "options": [
+      "Use condition-specific progression with attention to tissue healing and symptoms",
+      "Prescribe complete immobilization despite medical clearance",
+      "Advance loading aggressively without reassessment",
+      "Ignore patient-reported aggravating factors"
+    ],
+    "correctIndex": 0,
+    "rationale": "The correct answer reflects standard orthopedic rehabilitation principles and appropriate progression."
+  },
+  {
+    "id": "auto",
+    "category": "MSK",
+    "difficulty": "easy",
+    "stem": "A 54-year-old seen in a acute care unit has PCL injury. Which action is BEST?",
+    "options": [
+      "Use condition-specific progression with attention to tissue healing and symptoms",
+      "Prescribe complete immobilization despite medical clearance",
+      "Advance loading aggressively without reassessment",
+      "Ignore patient-reported aggravating factors"
+    ],
+    "correctIndex": 0,
+    "rationale": "The correct answer reflects standard orthopedic rehabilitation principles and appropriate progression."
+  },
+  {
+    "id": "auto",
+    "category": "MSK",
+    "difficulty": "medium",
+    "stem": "A 81-year-old seen in a acute care unit has femoroacetabular impingement. What is the safest intervention?",
+    "options": [
+      "Use condition-specific progression with attention to tissue healing and symptoms",
+      "Prescribe complete immobilization despite medical clearance",
+      "Advance loading aggressively without reassessment",
+      "Ignore patient-reported aggravating factors"
+    ],
+    "correctIndex": 0,
+    "rationale": "The correct answer reflects standard orthopedic rehabilitation principles and appropriate progression."
+  },
+  {
+    "id": "auto",
+    "category": "MSK",
+    "difficulty": "hard",
+    "stem": "A 36-year-old seen in a acute care unit has lateral epicondylalgia. Which choice best addresses safety and function?",
+    "options": [
+      "Use condition-specific progression with attention to tissue healing and symptoms",
+      "Prescribe complete immobilization despite medical clearance",
+      "Advance loading aggressively without reassessment",
+      "Ignore patient-reported aggravating factors"
+    ],
+    "correctIndex": 0,
+    "rationale": "The correct answer reflects standard orthopedic rehabilitation principles and appropriate progression."
+  },
+  {
+    "id": "auto",
+    "category": "MSK",
+    "difficulty": "easy",
+    "stem": "A 54-year-old seen in a skilled nursing facility has medial tibial stress syndrome. Which option best matches current evidence?",
+    "options": [
+      "Use condition-specific progression with attention to tissue healing and symptoms",
+      "Prescribe complete immobilization despite medical clearance",
+      "Advance loading aggressively without reassessment",
+      "Ignore patient-reported aggravating factors"
+    ],
+    "correctIndex": 0,
+    "rationale": "The correct answer reflects standard orthopedic rehabilitation principles and appropriate progression."
+  },
+  {
+    "id": "auto",
+    "category": "MSK",
+    "difficulty": "medium",
+    "stem": "A 57-year-old seen in a acute care unit has tibial stress fracture. What is the safest intervention?",
+    "options": [
+      "Use condition-specific progression with attention to tissue healing and symptoms",
+      "Prescribe complete immobilization despite medical clearance",
+      "Advance loading aggressively without reassessment",
+      "Ignore patient-reported aggravating factors"
+    ],
+    "correctIndex": 0,
+    "rationale": "The correct answer reflects standard orthopedic rehabilitation principles and appropriate progression."
+  },
+  {
+    "id": "auto",
+    "category": "MSK",
+    "difficulty": "hard",
+    "stem": "A 81-year-old seen in a intensive care unit has acromioclavicular sprain. What should be done first?",
+    "options": [
+      "Use condition-specific progression with attention to tissue healing and symptoms",
+      "Prescribe complete immobilization despite medical clearance",
+      "Advance loading aggressively without reassessment",
+      "Ignore patient-reported aggravating factors"
+    ],
+    "correctIndex": 0,
+    "rationale": "The correct answer reflects standard orthopedic rehabilitation principles and appropriate progression."
+  },
+  {
+    "id": "auto",
+    "category": "MSK",
+    "difficulty": "easy",
+    "stem": "A 24-year-old seen in a intensive care unit has SLAP lesion. What should be done first?",
+    "options": [
+      "Use condition-specific progression with attention to tissue healing and symptoms",
+      "Prescribe complete immobilization despite medical clearance",
+      "Advance loading aggressively without reassessment",
+      "Ignore patient-reported aggravating factors"
+    ],
+    "correctIndex": 0,
+    "rationale": "The correct answer reflects standard orthopedic rehabilitation principles and appropriate progression."
+  },
+  {
+    "id": "auto",
+    "category": "MSK",
+    "difficulty": "medium",
+    "stem": "A 18-year-old seen in a school gym has hip osteoarthritis. What is the MOST appropriate next step?",
+    "options": [
+      "Use condition-specific progression with attention to tissue healing and symptoms",
+      "Prescribe complete immobilization despite medical clearance",
+      "Advance loading aggressively without reassessment",
+      "Ignore patient-reported aggravating factors"
+    ],
+    "correctIndex": 0,
+    "rationale": "The correct answer reflects standard orthopedic rehabilitation principles and appropriate progression."
+  },
+  {
+    "id": "auto",
+    "category": "MSK",
+    "difficulty": "hard",
+    "stem": "A 30-year-old seen in a outpatient clinic has ankle ORIF post-op progression. What is the MOST appropriate next step?",
+    "options": [
+      "Use condition-specific progression with attention to tissue healing and symptoms",
+      "Prescribe complete immobilization despite medical clearance",
+      "Advance loading aggressively without reassessment",
+      "Ignore patient-reported aggravating factors"
+    ],
+    "correctIndex": 0,
+    "rationale": "The correct answer reflects standard orthopedic rehabilitation principles and appropriate progression."
+  },
+  {
+    "id": "auto",
+    "category": "MSK",
+    "difficulty": "easy",
+    "stem": "A 18-year-old seen in a acute care unit has adolescent scoliosis. Which choice best addresses safety and function?",
+    "options": [
+      "Use condition-specific progression with attention to tissue healing and symptoms",
+      "Prescribe complete immobilization despite medical clearance",
+      "Advance loading aggressively without reassessment",
+      "Ignore patient-reported aggravating factors"
+    ],
+    "correctIndex": 0,
+    "rationale": "The correct answer reflects standard orthopedic rehabilitation principles and appropriate progression."
+  },
+  {
+    "id": "auto",
+    "category": "MSK",
+    "difficulty": "medium",
+    "stem": "A 63-year-old seen in a outpatient clinic has De Quervain tenosynovitis. What is the safest intervention?",
+    "options": [
+      "Use condition-specific progression with attention to tissue healing and symptoms",
+      "Prescribe complete immobilization despite medical clearance",
+      "Advance loading aggressively without reassessment",
+      "Ignore patient-reported aggravating factors"
+    ],
+    "correctIndex": 0,
+    "rationale": "The correct answer reflects standard orthopedic rehabilitation principles and appropriate progression."
+  },
+  {
+    "id": "auto",
+    "category": "MSK",
+    "difficulty": "hard",
+    "stem": "A 60-year-old seen in a patient's home has trigger finger. What is the safest intervention?",
+    "options": [
+      "Use condition-specific progression with attention to tissue healing and symptoms",
+      "Prescribe complete immobilization despite medical clearance",
+      "Advance loading aggressively without reassessment",
+      "Ignore patient-reported aggravating factors"
+    ],
+    "correctIndex": 0,
+    "rationale": "The correct answer reflects standard orthopedic rehabilitation principles and appropriate progression."
+  },
+  {
+    "id": "auto",
+    "category": "MSK",
+    "difficulty": "easy",
+    "stem": "A 87-year-old seen in a outpatient clinic has rheumatoid arthritis hand deformity. Which option best matches current evidence?",
+    "options": [
+      "Use condition-specific progression with attention to tissue healing and symptoms",
+      "Prescribe complete immobilization despite medical clearance",
+      "Advance loading aggressively without reassessment",
+      "Ignore patient-reported aggravating factors"
+    ],
+    "correctIndex": 0,
+    "rationale": "The correct answer reflects standard orthopedic rehabilitation principles and appropriate progression."
+  },
+  {
+    "id": "auto",
+    "category": "MSK",
+    "difficulty": "medium",
+    "stem": "A 78-year-old seen in a school gym has Dupuytren contracture. What is the MOST appropriate next step?",
+    "options": [
+      "Use condition-specific progression with attention to tissue healing and symptoms",
+      "Prescribe complete immobilization despite medical clearance",
+      "Advance loading aggressively without reassessment",
+      "Ignore patient-reported aggravating factors"
+    ],
+    "correctIndex": 0,
+    "rationale": "The correct answer reflects standard orthopedic rehabilitation principles and appropriate progression."
+  },
+  {
+    "id": "auto",
+    "category": "MSK",
+    "difficulty": "hard",
+    "stem": "A 54-year-old seen in a school gym has calcaneal apophysitis. What is the safest intervention?",
+    "options": [
+      "Use condition-specific progression with attention to tissue healing and symptoms",
+      "Prescribe complete immobilization despite medical clearance",
+      "Advance loading aggressively without reassessment",
+      "Ignore patient-reported aggravating factors"
+    ],
+    "correctIndex": 0,
+    "rationale": "The correct answer reflects standard orthopedic rehabilitation principles and appropriate progression."
+  },
+  {
+    "id": "auto",
+    "category": "MSK",
+    "difficulty": "easy",
+    "stem": "A 18-year-old seen in a intensive care unit has iliotibial band syndrome. Which response is most consistent with NPTE-level decision making?",
+    "options": [
+      "Use condition-specific progression with attention to tissue healing and symptoms",
+      "Prescribe complete immobilization despite medical clearance",
+      "Advance loading aggressively without reassessment",
+      "Ignore patient-reported aggravating factors"
+    ],
+    "correctIndex": 0,
+    "rationale": "The correct answer reflects standard orthopedic rehabilitation principles and appropriate progression."
+  },
+  {
+    "id": "auto",
+    "category": "MSK",
+    "difficulty": "medium",
+    "stem": "A 18-year-old seen in a outpatient clinic has chondromalacia patella. Which finding should the PT prioritize?",
+    "options": [
+      "Use condition-specific progression with attention to tissue healing and symptoms",
+      "Prescribe complete immobilization despite medical clearance",
+      "Advance loading aggressively without reassessment",
+      "Ignore patient-reported aggravating factors"
+    ],
+    "correctIndex": 0,
+    "rationale": "The correct answer reflects standard orthopedic rehabilitation principles and appropriate progression."
+  },
+  {
+    "id": "auto",
+    "category": "MSK",
+    "difficulty": "hard",
+    "stem": "A 54-year-old seen in a patient's home has rotator cuff repair phase I. What is the MOST appropriate next step?",
+    "options": [
+      "Use condition-specific progression with attention to tissue healing and symptoms",
+      "Prescribe complete immobilization despite medical clearance",
+      "Advance loading aggressively without reassessment",
+      "Ignore patient-reported aggravating factors"
+    ],
+    "correctIndex": 0,
+    "rationale": "The correct answer reflects standard orthopedic rehabilitation principles and appropriate progression."
+  },
+  {
+    "id": "auto",
+    "category": "MSK",
+    "difficulty": "easy",
+    "stem": "A 21-year-old seen in a outpatient clinic has TKA stair training. What is the safest intervention?",
+    "options": [
+      "Use condition-specific progression with attention to tissue healing and symptoms",
+      "Prescribe complete immobilization despite medical clearance",
+      "Advance loading aggressively without reassessment",
+      "Ignore patient-reported aggravating factors"
+    ],
+    "correctIndex": 0,
+    "rationale": "The correct answer reflects standard orthopedic rehabilitation principles and appropriate progression."
+  },
+  {
+    "id": "auto",
+    "category": "Neuro",
+    "difficulty": "medium",
+    "stem": "During evaluation in a intensive care unit, a 66-year-old presents with acute right MCA stroke. Which action is BEST?",
+    "options": [
+      "Match intervention to neurologic signs while maximizing safety and task specificity",
+      "Train only isolated muscles and avoid functional tasks",
+      "Delay all mobility until all neurologic deficits resolve",
+      "Skip objective neurologic examination measures"
+    ],
+    "correctIndex": 0,
+    "rationale": "Neurologic management should be exam-driven, functional, and safety-focused."
+  },
+  {
+    "id": "auto",
+    "category": "Neuro",
+    "difficulty": "hard",
+    "stem": "During evaluation in a intensive care unit, a 45-year-old presents with incomplete C6 spinal cord injury. Which option best matches current evidence?",
+    "options": [
+      "Match intervention to neurologic signs while maximizing safety and task specificity",
+      "Train only isolated muscles and avoid functional tasks",
+      "Delay all mobility until all neurologic deficits resolve",
+      "Skip objective neurologic examination measures"
+    ],
+    "correctIndex": 0,
+    "rationale": "Neurologic management should be exam-driven, functional, and safety-focused."
+  },
+  {
+    "id": "auto",
+    "category": "Neuro",
+    "difficulty": "easy",
+    "stem": "During evaluation in a acute care unit, a 9-year-old presents with Parkinson disease with freezing of gait. What is the MOST appropriate next step?",
+    "options": [
+      "Match intervention to neurologic signs while maximizing safety and task specificity",
+      "Train only isolated muscles and avoid functional tasks",
+      "Delay all mobility until all neurologic deficits resolve",
+      "Skip objective neurologic examination measures"
+    ],
+    "correctIndex": 0,
+    "rationale": "Neurologic management should be exam-driven, functional, and safety-focused."
+  },
+  {
+    "id": "auto",
+    "category": "Neuro",
+    "difficulty": "medium",
+    "stem": "During evaluation in a patient's home, a 21-year-old presents with relapsing-remitting multiple sclerosis. What is the safest intervention?",
+    "options": [
+      "Match intervention to neurologic signs while maximizing safety and task specificity",
+      "Train only isolated muscles and avoid functional tasks",
+      "Delay all mobility until all neurologic deficits resolve",
+      "Skip objective neurologic examination measures"
+    ],
+    "correctIndex": 0,
+    "rationale": "Neurologic management should be exam-driven, functional, and safety-focused."
+  },
+  {
+    "id": "auto",
+    "category": "Neuro",
+    "difficulty": "hard",
+    "stem": "During evaluation in a patient's home, a 5-year-old presents with moderate traumatic brain injury. What should be done first?",
+    "options": [
+      "Match intervention to neurologic signs while maximizing safety and task specificity",
+      "Train only isolated muscles and avoid functional tasks",
+      "Delay all mobility until all neurologic deficits resolve",
+      "Skip objective neurologic examination measures"
+    ],
+    "correctIndex": 0,
+    "rationale": "Neurologic management should be exam-driven, functional, and safety-focused."
+  },
+  {
+    "id": "auto",
+    "category": "Neuro",
+    "difficulty": "easy",
+    "stem": "During evaluation in a patient's home, a 51-year-old presents with posterior canal BPPV. Which choice best addresses safety and function?",
+    "options": [
+      "Match intervention to neurologic signs while maximizing safety and task specificity",
+      "Train only isolated muscles and avoid functional tasks",
+      "Delay all mobility until all neurologic deficits resolve",
+      "Skip objective neurologic examination measures"
+    ],
+    "correctIndex": 0,
+    "rationale": "Neurologic management should be exam-driven, functional, and safety-focused."
+  },
+  {
+    "id": "auto",
+    "category": "Neuro",
+    "difficulty": "medium",
+    "stem": "During evaluation in a patient's home, a 13-year-old presents with cerebellar ataxia. Which choice best addresses safety and function?",
+    "options": [
+      "Match intervention to neurologic signs while maximizing safety and task specificity",
+      "Train only isolated muscles and avoid functional tasks",
+      "Delay all mobility until all neurologic deficits resolve",
+      "Skip objective neurologic examination measures"
+    ],
+    "correctIndex": 0,
+    "rationale": "Neurologic management should be exam-driven, functional, and safety-focused."
+  },
+  {
+    "id": "auto",
+    "category": "Neuro",
+    "difficulty": "hard",
+    "stem": "During evaluation in a school gym, a 13-year-old presents with upper motor neuron lesion. Which finding should the PT prioritize?",
+    "options": [
+      "Match intervention to neurologic signs while maximizing safety and task specificity",
+      "Train only isolated muscles and avoid functional tasks",
+      "Delay all mobility until all neurologic deficits resolve",
+      "Skip objective neurologic examination measures"
+    ],
+    "correctIndex": 0,
+    "rationale": "Neurologic management should be exam-driven, functional, and safety-focused."
+  },
+  {
+    "id": "auto",
+    "category": "Neuro",
+    "difficulty": "easy",
+    "stem": "During evaluation in a intensive care unit, a 14-year-old presents with lower motor neuron lesion. What is the safest intervention?",
+    "options": [
+      "Match intervention to neurologic signs while maximizing safety and task specificity",
+      "Train only isolated muscles and avoid functional tasks",
+      "Delay all mobility until all neurologic deficits resolve",
+      "Skip objective neurologic examination measures"
+    ],
+    "correctIndex": 0,
+    "rationale": "Neurologic management should be exam-driven, functional, and safety-focused."
+  },
+  {
+    "id": "auto",
+    "category": "Neuro",
+    "difficulty": "medium",
+    "stem": "During evaluation in a skilled nursing facility, a 27-year-old presents with pathologic hyperreflexia. What is the safest intervention?",
+    "options": [
+      "Match intervention to neurologic signs while maximizing safety and task specificity",
+      "Train only isolated muscles and avoid functional tasks",
+      "Delay all mobility until all neurologic deficits resolve",
+      "Skip objective neurologic examination measures"
+    ],
+    "correctIndex": 0,
+    "rationale": "Neurologic management should be exam-driven, functional, and safety-focused."
+  },
+  {
+    "id": "auto",
+    "category": "Neuro",
+    "difficulty": "hard",
+    "stem": "During evaluation in a skilled nursing facility, a 15-year-old presents with cranial nerve III palsy. What is the safest intervention?",
+    "options": [
+      "Match intervention to neurologic signs while maximizing safety and task specificity",
+      "Train only isolated muscles and avoid functional tasks",
+      "Delay all mobility until all neurologic deficits resolve",
+      "Skip objective neurologic examination measures"
+    ],
+    "correctIndex": 0,
+    "rationale": "Neurologic management should be exam-driven, functional, and safety-focused."
+  },
+  {
+    "id": "auto",
+    "category": "Neuro",
+    "difficulty": "easy",
+    "stem": "During evaluation in a school gym, a 54-year-old presents with cranial nerve VII impairment. What is the MOST appropriate next step?",
+    "options": [
+      "Match intervention to neurologic signs while maximizing safety and task specificity",
+      "Train only isolated muscles and avoid functional tasks",
+      "Delay all mobility until all neurologic deficits resolve",
+      "Skip objective neurologic examination measures"
+    ],
+    "correctIndex": 0,
+    "rationale": "Neurologic management should be exam-driven, functional, and safety-focused."
+  },
+  {
+    "id": "auto",
+    "category": "Neuro",
+    "difficulty": "medium",
+    "stem": "During evaluation in a acute care unit, a 60-year-old presents with left unilateral neglect. What is the MOST appropriate next step?",
+    "options": [
+      "Match intervention to neurologic signs while maximizing safety and task specificity",
+      "Train only isolated muscles and avoid functional tasks",
+      "Delay all mobility until all neurologic deficits resolve",
+      "Skip objective neurologic examination measures"
+    ],
+    "correctIndex": 0,
+    "rationale": "Neurologic management should be exam-driven, functional, and safety-focused."
+  },
+  {
+    "id": "auto",
+    "category": "Neuro",
+    "difficulty": "hard",
+    "stem": "During evaluation in a acute care unit, a 11-year-old presents with pusher syndrome. Which response is most consistent with NPTE-level decision making?",
+    "options": [
+      "Match intervention to neurologic signs while maximizing safety and task specificity",
+      "Train only isolated muscles and avoid functional tasks",
+      "Delay all mobility until all neurologic deficits resolve",
+      "Skip objective neurologic examination measures"
+    ],
+    "correctIndex": 0,
+    "rationale": "Neurologic management should be exam-driven, functional, and safety-focused."
+  },
+  {
+    "id": "auto",
+    "category": "Neuro",
+    "difficulty": "easy",
+    "stem": "During evaluation in a skilled nursing facility, a 27-year-old presents with expressive aphasia. Which option best matches current evidence?",
+    "options": [
+      "Match intervention to neurologic signs while maximizing safety and task specificity",
+      "Train only isolated muscles and avoid functional tasks",
+      "Delay all mobility until all neurologic deficits resolve",
+      "Skip objective neurologic examination measures"
+    ],
+    "correctIndex": 0,
+    "rationale": "Neurologic management should be exam-driven, functional, and safety-focused."
+  },
+  {
+    "id": "auto",
+    "category": "Neuro",
+    "difficulty": "medium",
+    "stem": "During evaluation in a school gym, a 30-year-old presents with dysarthria. Which choice best addresses safety and function?",
+    "options": [
+      "Match intervention to neurologic signs while maximizing safety and task specificity",
+      "Train only isolated muscles and avoid functional tasks",
+      "Delay all mobility until all neurologic deficits resolve",
+      "Skip objective neurologic examination measures"
+    ],
+    "correctIndex": 0,
+    "rationale": "Neurologic management should be exam-driven, functional, and safety-focused."
+  },
+  {
+    "id": "auto",
+    "category": "Neuro",
+    "difficulty": "hard",
+    "stem": "During evaluation in a patient's home, a 36-year-old presents with risk for autonomic dysreflexia. Which finding should the PT prioritize?",
+    "options": [
+      "Match intervention to neurologic signs while maximizing safety and task specificity",
+      "Train only isolated muscles and avoid functional tasks",
+      "Delay all mobility until all neurologic deficits resolve",
+      "Skip objective neurologic examination measures"
+    ],
+    "correctIndex": 0,
+    "rationale": "Neurologic management should be exam-driven, functional, and safety-focused."
+  },
+  {
+    "id": "auto",
+    "category": "Neuro",
+    "difficulty": "easy",
+    "stem": "During evaluation in a outpatient clinic, a 9-year-old presents with ASIA sensory exam change. What is the safest intervention?",
+    "options": [
+      "Match intervention to neurologic signs while maximizing safety and task specificity",
+      "Train only isolated muscles and avoid functional tasks",
+      "Delay all mobility until all neurologic deficits resolve",
+      "Skip objective neurologic examination measures"
+    ],
+    "correctIndex": 0,
+    "rationale": "Neurologic management should be exam-driven, functional, and safety-focused."
+  },
+  {
+    "id": "auto",
+    "category": "Neuro",
+    "difficulty": "medium",
+    "stem": "During evaluation in a patient's home, a 72-year-old presents with spasticity after stroke. What is the MOST appropriate next step?",
+    "options": [
+      "Match intervention to neurologic signs while maximizing safety and task specificity",
+      "Train only isolated muscles and avoid functional tasks",
+      "Delay all mobility until all neurologic deficits resolve",
+      "Skip objective neurologic examination measures"
+    ],
+    "correctIndex": 0,
+    "rationale": "Neurologic management should be exam-driven, functional, and safety-focused."
+  },
+  {
+    "id": "auto",
+    "category": "Neuro",
+    "difficulty": "hard",
+    "stem": "During evaluation in a outpatient clinic, a 33-year-old presents with constraint-induced movement therapy candidacy. What is the safest intervention?",
+    "options": [
+      "Match intervention to neurologic signs while maximizing safety and task specificity",
+      "Train only isolated muscles and avoid functional tasks",
+      "Delay all mobility until all neurologic deficits resolve",
+      "Skip objective neurologic examination measures"
+    ],
+    "correctIndex": 0,
+    "rationale": "Neurologic management should be exam-driven, functional, and safety-focused."
+  },
+  {
+    "id": "auto",
+    "category": "Neuro",
+    "difficulty": "easy",
+    "stem": "During evaluation in a acute care unit, a 6-year-old presents with hemiplegic shoulder subluxation. Which response is most consistent with NPTE-level decision making?",
+    "options": [
+      "Match intervention to neurologic signs while maximizing safety and task specificity",
+      "Train only isolated muscles and avoid functional tasks",
+      "Delay all mobility until all neurologic deficits resolve",
+      "Skip objective neurologic examination measures"
+    ],
+    "correctIndex": 0,
+    "rationale": "Neurologic management should be exam-driven, functional, and safety-focused."
+  },
+  {
+    "id": "auto",
+    "category": "Neuro",
+    "difficulty": "medium",
+    "stem": "During evaluation in a school gym, a 60-year-old presents with VOR deficit. What is the safest intervention?",
+    "options": [
+      "Match intervention to neurologic signs while maximizing safety and task specificity",
+      "Train only isolated muscles and avoid functional tasks",
+      "Delay all mobility until all neurologic deficits resolve",
+      "Skip objective neurologic examination measures"
+    ],
+    "correctIndex": 0,
+    "rationale": "Neurologic management should be exam-driven, functional, and safety-focused."
+  },
+  {
+    "id": "auto",
+    "category": "Neuro",
+    "difficulty": "hard",
+    "stem": "During evaluation in a acute care unit, a 8-year-old presents with gaze-evoked nystagmus. Which finding should the PT prioritize?",
+    "options": [
+      "Match intervention to neurologic signs while maximizing safety and task specificity",
+      "Train only isolated muscles and avoid functional tasks",
+      "Delay all mobility until all neurologic deficits resolve",
+      "Skip objective neurologic examination measures"
+    ],
+    "correctIndex": 0,
+    "rationale": "Neurologic management should be exam-driven, functional, and safety-focused."
+  },
+  {
+    "id": "auto",
+    "category": "Neuro",
+    "difficulty": "easy",
+    "stem": "During evaluation in a intensive care unit, a 36-year-old presents with proprioceptive loss after neuropathy. Which finding should the PT prioritize?",
+    "options": [
+      "Match intervention to neurologic signs while maximizing safety and task specificity",
+      "Train only isolated muscles and avoid functional tasks",
+      "Delay all mobility until all neurologic deficits resolve",
+      "Skip objective neurologic examination measures"
+    ],
+    "correctIndex": 0,
+    "rationale": "Neurologic management should be exam-driven, functional, and safety-focused."
+  },
+  {
+    "id": "auto",
+    "category": "Neuro",
+    "difficulty": "medium",
+    "stem": "During evaluation in a intensive care unit, a 10-year-old presents with post-stroke foot drop. Which finding should the PT prioritize?",
+    "options": [
+      "Match intervention to neurologic signs while maximizing safety and task specificity",
+      "Train only isolated muscles and avoid functional tasks",
+      "Delay all mobility until all neurologic deficits resolve",
+      "Skip objective neurologic examination measures"
+    ],
+    "correctIndex": 0,
+    "rationale": "Neurologic management should be exam-driven, functional, and safety-focused."
+  },
+  {
+    "id": "auto",
+    "category": "Neuro",
+    "difficulty": "hard",
+    "stem": "During evaluation in a intensive care unit, a 66-year-old presents with Brunnstrom stage III pattern. Which finding should the PT prioritize?",
+    "options": [
+      "Match intervention to neurologic signs while maximizing safety and task specificity",
+      "Train only isolated muscles and avoid functional tasks",
+      "Delay all mobility until all neurologic deficits resolve",
+      "Skip objective neurologic examination measures"
+    ],
+    "correctIndex": 0,
+    "rationale": "Neurologic management should be exam-driven, functional, and safety-focused."
+  },
+  {
+    "id": "auto",
+    "category": "Neuro",
+    "difficulty": "easy",
+    "stem": "During evaluation in a acute care unit, a 7-year-old presents with motor learning carryover issue. Which choice best addresses safety and function?",
+    "options": [
+      "Match intervention to neurologic signs while maximizing safety and task specificity",
+      "Train only isolated muscles and avoid functional tasks",
+      "Delay all mobility until all neurologic deficits resolve",
+      "Skip objective neurologic examination measures"
+    ],
+    "correctIndex": 0,
+    "rationale": "Neurologic management should be exam-driven, functional, and safety-focused."
+  },
+  {
+    "id": "auto",
+    "category": "Neuro",
+    "difficulty": "medium",
+    "stem": "During evaluation in a skilled nursing facility, a 48-year-old presents with dual-task gait deficit in Parkinson disease. Which response is most consistent with NPTE-level decision making?",
+    "options": [
+      "Match intervention to neurologic signs while maximizing safety and task specificity",
+      "Train only isolated muscles and avoid functional tasks",
+      "Delay all mobility until all neurologic deficits resolve",
+      "Skip objective neurologic examination measures"
+    ],
+    "correctIndex": 0,
+    "rationale": "Neurologic management should be exam-driven, functional, and safety-focused."
+  },
+  {
+    "id": "auto",
+    "category": "Neuro",
+    "difficulty": "hard",
+    "stem": "During evaluation in a acute care unit, a 7-year-old presents with retropulsion episodes. What is the MOST appropriate next step?",
+    "options": [
+      "Match intervention to neurologic signs while maximizing safety and task specificity",
+      "Train only isolated muscles and avoid functional tasks",
+      "Delay all mobility until all neurologic deficits resolve",
+      "Skip objective neurologic examination measures"
+    ],
+    "correctIndex": 0,
+    "rationale": "Neurologic management should be exam-driven, functional, and safety-focused."
+  },
+  {
+    "id": "auto",
+    "category": "Neuro",
+    "difficulty": "easy",
+    "stem": "During evaluation in a acute care unit, a 72-year-old presents with MS fatigue management. Which response is most consistent with NPTE-level decision making?",
+    "options": [
+      "Match intervention to neurologic signs while maximizing safety and task specificity",
+      "Train only isolated muscles and avoid functional tasks",
+      "Delay all mobility until all neurologic deficits resolve",
+      "Skip objective neurologic examination measures"
+    ],
+    "correctIndex": 0,
+    "rationale": "Neurologic management should be exam-driven, functional, and safety-focused."
+  },
+  {
+    "id": "auto",
+    "category": "Neuro",
+    "difficulty": "medium",
+    "stem": "During evaluation in a outpatient clinic, a 42-year-old presents with Rancho level VI behavior. What is the MOST appropriate next step?",
+    "options": [
+      "Match intervention to neurologic signs while maximizing safety and task specificity",
+      "Train only isolated muscles and avoid functional tasks",
+      "Delay all mobility until all neurologic deficits resolve",
+      "Skip objective neurologic examination measures"
+    ],
+    "correctIndex": 0,
+    "rationale": "Neurologic management should be exam-driven, functional, and safety-focused."
+  },
+  {
+    "id": "auto",
+    "category": "Neuro",
+    "difficulty": "hard",
+    "stem": "During evaluation in a school gym, a 9-year-old presents with post-concussion exertional symptoms. What should be done first?",
+    "options": [
+      "Match intervention to neurologic signs while maximizing safety and task specificity",
+      "Train only isolated muscles and avoid functional tasks",
+      "Delay all mobility until all neurologic deficits resolve",
+      "Skip objective neurologic examination measures"
+    ],
+    "correctIndex": 0,
+    "rationale": "Neurologic management should be exam-driven, functional, and safety-focused."
+  },
+  {
+    "id": "auto",
+    "category": "Neuro",
+    "difficulty": "easy",
+    "stem": "During evaluation in a skilled nursing facility, a 7-year-old presents with ataxic gait pattern. Which finding should the PT prioritize?",
+    "options": [
+      "Match intervention to neurologic signs while maximizing safety and task specificity",
+      "Train only isolated muscles and avoid functional tasks",
+      "Delay all mobility until all neurologic deficits resolve",
+      "Skip objective neurologic examination measures"
+    ],
+    "correctIndex": 0,
+    "rationale": "Neurologic management should be exam-driven, functional, and safety-focused."
+  },
+  {
+    "id": "auto",
+    "category": "Neuro",
+    "difficulty": "medium",
+    "stem": "During evaluation in a intensive care unit, a 45-year-old presents with truncal ataxia. What is the MOST appropriate next step?",
+    "options": [
+      "Match intervention to neurologic signs while maximizing safety and task specificity",
+      "Train only isolated muscles and avoid functional tasks",
+      "Delay all mobility until all neurologic deficits resolve",
+      "Skip objective neurologic examination measures"
+    ],
+    "correctIndex": 0,
+    "rationale": "Neurologic management should be exam-driven, functional, and safety-focused."
+  },
+  {
+    "id": "auto",
+    "category": "Neuro",
+    "difficulty": "hard",
+    "stem": "During evaluation in a acute care unit, a 72-year-old presents with persistent primitive reflexes. Which option best matches current evidence?",
+    "options": [
+      "Match intervention to neurologic signs while maximizing safety and task specificity",
+      "Train only isolated muscles and avoid functional tasks",
+      "Delay all mobility until all neurologic deficits resolve",
+      "Skip objective neurologic examination measures"
+    ],
+    "correctIndex": 0,
+    "rationale": "Neurologic management should be exam-driven, functional, and safety-focused."
+  },
+  {
+    "id": "auto",
+    "category": "Neuro",
+    "difficulty": "easy",
+    "stem": "During evaluation in a school gym, a 6-year-old presents with impaired righting reactions. Which action is BEST?",
+    "options": [
+      "Match intervention to neurologic signs while maximizing safety and task specificity",
+      "Train only isolated muscles and avoid functional tasks",
+      "Delay all mobility until all neurologic deficits resolve",
+      "Skip objective neurologic examination measures"
+    ],
+    "correctIndex": 0,
+    "rationale": "Neurologic management should be exam-driven, functional, and safety-focused."
+  },
+  {
+    "id": "auto",
+    "category": "Neuro",
+    "difficulty": "medium",
+    "stem": "During evaluation in a school gym, a 54-year-old presents with abnormal deep tendon reflex grading. Which action is BEST?",
+    "options": [
+      "Match intervention to neurologic signs while maximizing safety and task specificity",
+      "Train only isolated muscles and avoid functional tasks",
+      "Delay all mobility until all neurologic deficits resolve",
+      "Skip objective neurologic examination measures"
+    ],
+    "correctIndex": 0,
+    "rationale": "Neurologic management should be exam-driven, functional, and safety-focused."
+  },
+  {
+    "id": "auto",
+    "category": "Neuro",
+    "difficulty": "hard",
+    "stem": "During evaluation in a acute care unit, a 9-year-old presents with ankle clonus. What is the MOST appropriate next step?",
+    "options": [
+      "Match intervention to neurologic signs while maximizing safety and task specificity",
+      "Train only isolated muscles and avoid functional tasks",
+      "Delay all mobility until all neurologic deficits resolve",
+      "Skip objective neurologic examination measures"
+    ],
+    "correctIndex": 0,
+    "rationale": "Neurologic management should be exam-driven, functional, and safety-focused."
+  },
+  {
+    "id": "auto",
+    "category": "Neuro",
+    "difficulty": "easy",
+    "stem": "During evaluation in a intensive care unit, a 12-year-old presents with cranial nerve XII weakness. Which option best matches current evidence?",
+    "options": [
+      "Match intervention to neurologic signs while maximizing safety and task specificity",
+      "Train only isolated muscles and avoid functional tasks",
+      "Delay all mobility until all neurologic deficits resolve",
+      "Skip objective neurologic examination measures"
+    ],
+    "correctIndex": 0,
+    "rationale": "Neurologic management should be exam-driven, functional, and safety-focused."
+  },
+  {
+    "id": "auto",
+    "category": "Neuro",
+    "difficulty": "medium",
+    "stem": "During evaluation in a school gym, a 45-year-old presents with vestibular hypofunction. Which choice best addresses safety and function?",
+    "options": [
+      "Match intervention to neurologic signs while maximizing safety and task specificity",
+      "Train only isolated muscles and avoid functional tasks",
+      "Delay all mobility until all neurologic deficits resolve",
+      "Skip objective neurologic examination measures"
+    ],
+    "correctIndex": 0,
+    "rationale": "Neurologic management should be exam-driven, functional, and safety-focused."
+  },
+  {
+    "id": "auto",
+    "category": "Cardio",
+    "difficulty": "easy",
+    "stem": "A 72-year-old in ICU step-down is being managed for chronic heart failure with exertional dyspnea. What is the MOST appropriate next step?",
+    "options": [
+      "Use symptom-limited progression with continuous cardiopulmonary monitoring",
+      "Continue exercise despite unstable vitals and symptoms",
+      "Avoid all aerobic training even when stable",
+      "Set workload from diagnosis label alone"
+    ],
+    "correctIndex": 0,
+    "rationale": "Cardiopulmonary PT requires ongoing monitoring and individualized intensity adjustments."
+  },
+  {
+    "id": "auto",
+    "category": "Cardio",
+    "difficulty": "medium",
+    "stem": "A 78-year-old in acute care unit is being managed for COPD with activity intolerance. Which response is most consistent with NPTE-level decision making?",
+    "options": [
+      "Use symptom-limited progression with continuous cardiopulmonary monitoring",
+      "Continue exercise despite unstable vitals and symptoms",
+      "Avoid all aerobic training even when stable",
+      "Set workload from diagnosis label alone"
+    ],
+    "correctIndex": 0,
+    "rationale": "Cardiopulmonary PT requires ongoing monitoring and individualized intensity adjustments."
+  },
+  {
+    "id": "auto",
+    "category": "Cardio",
+    "difficulty": "hard",
+    "stem": "A 87-year-old in acute care unit is being managed for post-myocardial infarction mobilization. Which choice best addresses safety and function?",
+    "options": [
+      "Use symptom-limited progression with continuous cardiopulmonary monitoring",
+      "Continue exercise despite unstable vitals and symptoms",
+      "Avoid all aerobic training even when stable",
+      "Set workload from diagnosis label alone"
+    ],
+    "correctIndex": 0,
+    "rationale": "Cardiopulmonary PT requires ongoing monitoring and individualized intensity adjustments."
+  },
+  {
+    "id": "auto",
+    "category": "Cardio",
+    "difficulty": "easy",
+    "stem": "A 30-year-old in cardiac rehab gym is being managed for day-3 status post CABG. What is the MOST appropriate next step?",
+    "options": [
+      "Use symptom-limited progression with continuous cardiopulmonary monitoring",
+      "Continue exercise despite unstable vitals and symptoms",
+      "Avoid all aerobic training even when stable",
+      "Set workload from diagnosis label alone"
+    ],
+    "correctIndex": 0,
+    "rationale": "Cardiopulmonary PT requires ongoing monitoring and individualized intensity adjustments."
+  },
+  {
+    "id": "auto",
+    "category": "Cardio",
+    "difficulty": "medium",
+    "stem": "A 75-year-old in ICU step-down is being managed for abnormal blood pressure response to exercise. Which response is most consistent with NPTE-level decision making?",
+    "options": [
+      "Use symptom-limited progression with continuous cardiopulmonary monitoring",
+      "Continue exercise despite unstable vitals and symptoms",
+      "Avoid all aerobic training even when stable",
+      "Set workload from diagnosis label alone"
+    ],
+    "correctIndex": 0,
+    "rationale": "Cardiopulmonary PT requires ongoing monitoring and individualized intensity adjustments."
+  },
+  {
+    "id": "auto",
+    "category": "Cardio",
+    "difficulty": "hard",
+    "stem": "A 30-year-old in home health visit is being managed for oxygen desaturation during ambulation. Which response is most consistent with NPTE-level decision making?",
+    "options": [
+      "Use symptom-limited progression with continuous cardiopulmonary monitoring",
+      "Continue exercise despite unstable vitals and symptoms",
+      "Avoid all aerobic training even when stable",
+      "Set workload from diagnosis label alone"
+    ],
+    "correctIndex": 0,
+    "rationale": "Cardiopulmonary PT requires ongoing monitoring and individualized intensity adjustments."
+  },
+  {
+    "id": "auto",
+    "category": "Cardio",
+    "difficulty": "easy",
+    "stem": "A 42-year-old in cardiac rehab gym is being managed for RPE-guided aerobic progression. Which finding should the PT prioritize?",
+    "options": [
+      "Use symptom-limited progression with continuous cardiopulmonary monitoring",
+      "Continue exercise despite unstable vitals and symptoms",
+      "Avoid all aerobic training even when stable",
+      "Set workload from diagnosis label alone"
+    ],
+    "correctIndex": 0,
+    "rationale": "Cardiopulmonary PT requires ongoing monitoring and individualized intensity adjustments."
+  },
+  {
+    "id": "auto",
+    "category": "Cardio",
+    "difficulty": "medium",
+    "stem": "A 60-year-old in ICU step-down is being managed for 6-minute walk test decline. Which choice best addresses safety and function?",
+    "options": [
+      "Use symptom-limited progression with continuous cardiopulmonary monitoring",
+      "Continue exercise despite unstable vitals and symptoms",
+      "Avoid all aerobic training even when stable",
+      "Set workload from diagnosis label alone"
+    ],
+    "correctIndex": 0,
+    "rationale": "Cardiopulmonary PT requires ongoing monitoring and individualized intensity adjustments."
+  },
+  {
+    "id": "auto",
+    "category": "Cardio",
+    "difficulty": "hard",
+    "stem": "A 51-year-old in home health visit is being managed for beta-blocker blunted heart-rate response. Which option best matches current evidence?",
+    "options": [
+      "Use symptom-limited progression with continuous cardiopulmonary monitoring",
+      "Continue exercise despite unstable vitals and symptoms",
+      "Avoid all aerobic training even when stable",
+      "Set workload from diagnosis label alone"
+    ],
+    "correctIndex": 0,
+    "rationale": "Cardiopulmonary PT requires ongoing monitoring and individualized intensity adjustments."
+  },
+  {
+    "id": "auto",
+    "category": "Cardio",
+    "difficulty": "easy",
+    "stem": "A 54-year-old in cardiac rehab gym is being managed for orthopnea from fluid overload. Which option best matches current evidence?",
+    "options": [
+      "Use symptom-limited progression with continuous cardiopulmonary monitoring",
+      "Continue exercise despite unstable vitals and symptoms",
+      "Avoid all aerobic training even when stable",
+      "Set workload from diagnosis label alone"
+    ],
+    "correctIndex": 0,
+    "rationale": "Cardiopulmonary PT requires ongoing monitoring and individualized intensity adjustments."
+  },
+  {
+    "id": "auto",
+    "category": "Cardio",
+    "difficulty": "medium",
+    "stem": "A 48-year-old in cardiac rehab gym is being managed for peripheral edema from CHF. Which option best matches current evidence?",
+    "options": [
+      "Use symptom-limited progression with continuous cardiopulmonary monitoring",
+      "Continue exercise despite unstable vitals and symptoms",
+      "Avoid all aerobic training even when stable",
+      "Set workload from diagnosis label alone"
+    ],
+    "correctIndex": 0,
+    "rationale": "Cardiopulmonary PT requires ongoing monitoring and individualized intensity adjustments."
+  },
+  {
+    "id": "auto",
+    "category": "Cardio",
+    "difficulty": "hard",
+    "stem": "A 51-year-old in home health visit is being managed for COPD interval training tolerance. What is the safest intervention?",
+    "options": [
+      "Use symptom-limited progression with continuous cardiopulmonary monitoring",
+      "Continue exercise despite unstable vitals and symptoms",
+      "Avoid all aerobic training even when stable",
+      "Set workload from diagnosis label alone"
+    ],
+    "correctIndex": 0,
+    "rationale": "Cardiopulmonary PT requires ongoing monitoring and individualized intensity adjustments."
+  },
+  {
+    "id": "auto",
+    "category": "Cardio",
+    "difficulty": "easy",
+    "stem": "A 42-year-old in cardiac rehab gym is being managed for sternal precaution education. Which choice best addresses safety and function?",
+    "options": [
+      "Use symptom-limited progression with continuous cardiopulmonary monitoring",
+      "Continue exercise despite unstable vitals and symptoms",
+      "Avoid all aerobic training even when stable",
+      "Set workload from diagnosis label alone"
+    ],
+    "correctIndex": 0,
+    "rationale": "Cardiopulmonary PT requires ongoing monitoring and individualized intensity adjustments."
+  },
+  {
+    "id": "auto",
+    "category": "Cardio",
+    "difficulty": "medium",
+    "stem": "A 63-year-old in acute care unit is being managed for inspiratory muscle weakness. What is the MOST appropriate next step?",
+    "options": [
+      "Use symptom-limited progression with continuous cardiopulmonary monitoring",
+      "Continue exercise despite unstable vitals and symptoms",
+      "Avoid all aerobic training even when stable",
+      "Set workload from diagnosis label alone"
+    ],
+    "correctIndex": 0,
+    "rationale": "Cardiopulmonary PT requires ongoing monitoring and individualized intensity adjustments."
+  },
+  {
+    "id": "auto",
+    "category": "Cardio",
+    "difficulty": "hard",
+    "stem": "A 54-year-old in cardiac rehab gym is being managed for telemetry rhythm change during therapy. What is the MOST appropriate next step?",
+    "options": [
+      "Use symptom-limited progression with continuous cardiopulmonary monitoring",
+      "Continue exercise despite unstable vitals and symptoms",
+      "Avoid all aerobic training even when stable",
+      "Set workload from diagnosis label alone"
+    ],
+    "correctIndex": 0,
+    "rationale": "Cardiopulmonary PT requires ongoing monitoring and individualized intensity adjustments."
+  },
+  {
+    "id": "auto",
+    "category": "Cardio",
+    "difficulty": "easy",
+    "stem": "A 72-year-old in ICU step-down is being managed for exercise termination threshold question. Which response is most consistent with NPTE-level decision making?",
+    "options": [
+      "Use symptom-limited progression with continuous cardiopulmonary monitoring",
+      "Continue exercise despite unstable vitals and symptoms",
+      "Avoid all aerobic training even when stable",
+      "Set workload from diagnosis label alone"
+    ],
+    "correctIndex": 0,
+    "rationale": "Cardiopulmonary PT requires ongoing monitoring and individualized intensity adjustments."
+  },
+  {
+    "id": "auto",
+    "category": "Cardio",
+    "difficulty": "medium",
+    "stem": "A 48-year-old in ICU step-down is being managed for delayed heart-rate recovery. Which option best matches current evidence?",
+    "options": [
+      "Use symptom-limited progression with continuous cardiopulmonary monitoring",
+      "Continue exercise despite unstable vitals and symptoms",
+      "Avoid all aerobic training even when stable",
+      "Set workload from diagnosis label alone"
+    ],
+    "correctIndex": 0,
+    "rationale": "Cardiopulmonary PT requires ongoing monitoring and individualized intensity adjustments."
+  },
+  {
+    "id": "auto",
+    "category": "Cardio",
+    "difficulty": "hard",
+    "stem": "A 78-year-old in ICU step-down is being managed for new onset angina symptoms. What should be done first?",
+    "options": [
+      "Use symptom-limited progression with continuous cardiopulmonary monitoring",
+      "Continue exercise despite unstable vitals and symptoms",
+      "Avoid all aerobic training even when stable",
+      "Set workload from diagnosis label alone"
+    ],
+    "correctIndex": 0,
+    "rationale": "Cardiopulmonary PT requires ongoing monitoring and individualized intensity adjustments."
+  },
+  {
+    "id": "auto",
+    "category": "Cardio",
+    "difficulty": "easy",
+    "stem": "A 87-year-old in ICU step-down is being managed for pulse oximeter unreliable waveform. What should be done first?",
+    "options": [
+      "Use symptom-limited progression with continuous cardiopulmonary monitoring",
+      "Continue exercise despite unstable vitals and symptoms",
+      "Avoid all aerobic training even when stable",
+      "Set workload from diagnosis label alone"
+    ],
+    "correctIndex": 0,
+    "rationale": "Cardiopulmonary PT requires ongoing monitoring and individualized intensity adjustments."
+  },
+  {
+    "id": "auto",
+    "category": "Cardio",
+    "difficulty": "medium",
+    "stem": "A 36-year-old in acute care unit is being managed for insufficient warm-up before training. Which response is most consistent with NPTE-level decision making?",
+    "options": [
+      "Use symptom-limited progression with continuous cardiopulmonary monitoring",
+      "Continue exercise despite unstable vitals and symptoms",
+      "Avoid all aerobic training even when stable",
+      "Set workload from diagnosis label alone"
+    ],
+    "correctIndex": 0,
+    "rationale": "Cardiopulmonary PT requires ongoing monitoring and individualized intensity adjustments."
+  },
+  {
+    "id": "auto",
+    "category": "Cardio",
+    "difficulty": "hard",
+    "stem": "A 87-year-old in acute care unit is being managed for abrupt exercise stop without cool-down. Which response is most consistent with NPTE-level decision making?",
+    "options": [
+      "Use symptom-limited progression with continuous cardiopulmonary monitoring",
+      "Continue exercise despite unstable vitals and symptoms",
+      "Avoid all aerobic training even when stable",
+      "Set workload from diagnosis label alone"
+    ],
+    "correctIndex": 0,
+    "rationale": "Cardiopulmonary PT requires ongoing monitoring and individualized intensity adjustments."
+  },
+  {
+    "id": "auto",
+    "category": "Cardio",
+    "difficulty": "easy",
+    "stem": "A 84-year-old in home health visit is being managed for pre-activity vitals concern. Which response is most consistent with NPTE-level decision making?",
+    "options": [
+      "Use symptom-limited progression with continuous cardiopulmonary monitoring",
+      "Continue exercise despite unstable vitals and symptoms",
+      "Avoid all aerobic training even when stable",
+      "Set workload from diagnosis label alone"
+    ],
+    "correctIndex": 0,
+    "rationale": "Cardiopulmonary PT requires ongoing monitoring and individualized intensity adjustments."
+  },
+  {
+    "id": "auto",
+    "category": "Cardio",
+    "difficulty": "medium",
+    "stem": "A 84-year-old in acute care unit is being managed for NYHA class III limitation. Which finding should the PT prioritize?",
+    "options": [
+      "Use symptom-limited progression with continuous cardiopulmonary monitoring",
+      "Continue exercise despite unstable vitals and symptoms",
+      "Avoid all aerobic training even when stable",
+      "Set workload from diagnosis label alone"
+    ],
+    "correctIndex": 0,
+    "rationale": "Cardiopulmonary PT requires ongoing monitoring and individualized intensity adjustments."
+  },
+  {
+    "id": "auto",
+    "category": "Cardio",
+    "difficulty": "hard",
+    "stem": "A 66-year-old in ICU step-down is being managed for Borg dyspnea score of 7/10. What is the safest intervention?",
+    "options": [
+      "Use symptom-limited progression with continuous cardiopulmonary monitoring",
+      "Continue exercise despite unstable vitals and symptoms",
+      "Avoid all aerobic training even when stable",
+      "Set workload from diagnosis label alone"
+    ],
+    "correctIndex": 0,
+    "rationale": "Cardiopulmonary PT requires ongoing monitoring and individualized intensity adjustments."
+  },
+  {
+    "id": "auto",
+    "category": "Cardio",
+    "difficulty": "easy",
+    "stem": "A 30-year-old in home health visit is being managed for energy conservation training. What is the safest intervention?",
+    "options": [
+      "Use symptom-limited progression with continuous cardiopulmonary monitoring",
+      "Continue exercise despite unstable vitals and symptoms",
+      "Avoid all aerobic training even when stable",
+      "Set workload from diagnosis label alone"
+    ],
+    "correctIndex": 0,
+    "rationale": "Cardiopulmonary PT requires ongoing monitoring and individualized intensity adjustments."
+  },
+  {
+    "id": "auto",
+    "category": "Cardio",
+    "difficulty": "medium",
+    "stem": "A 42-year-old in acute care unit is being managed for diaphragmatic breathing difficulty. What is the MOST appropriate next step?",
+    "options": [
+      "Use symptom-limited progression with continuous cardiopulmonary monitoring",
+      "Continue exercise despite unstable vitals and symptoms",
+      "Avoid all aerobic training even when stable",
+      "Set workload from diagnosis label alone"
+    ],
+    "correctIndex": 0,
+    "rationale": "Cardiopulmonary PT requires ongoing monitoring and individualized intensity adjustments."
+  },
+  {
+    "id": "auto",
+    "category": "Cardio",
+    "difficulty": "hard",
+    "stem": "A 72-year-old in acute care unit is being managed for home oxygen tubing safety. What should be done first?",
+    "options": [
+      "Use symptom-limited progression with continuous cardiopulmonary monitoring",
+      "Continue exercise despite unstable vitals and symptoms",
+      "Avoid all aerobic training even when stable",
+      "Set workload from diagnosis label alone"
+    ],
+    "correctIndex": 0,
+    "rationale": "Cardiopulmonary PT requires ongoing monitoring and individualized intensity adjustments."
+  },
+  {
+    "id": "auto",
+    "category": "Cardio",
+    "difficulty": "easy",
+    "stem": "A 36-year-old in cardiac rehab gym is being managed for submaximal aerobic prescription. What is the safest intervention?",
+    "options": [
+      "Use symptom-limited progression with continuous cardiopulmonary monitoring",
+      "Continue exercise despite unstable vitals and symptoms",
+      "Avoid all aerobic training even when stable",
+      "Set workload from diagnosis label alone"
+    ],
+    "correctIndex": 0,
+    "rationale": "Cardiopulmonary PT requires ongoing monitoring and individualized intensity adjustments."
+  },
+  {
+    "id": "auto",
+    "category": "Cardio",
+    "difficulty": "medium",
+    "stem": "A 75-year-old in home health visit is being managed for phase II cardiac rehab referral. Which finding should the PT prioritize?",
+    "options": [
+      "Use symptom-limited progression with continuous cardiopulmonary monitoring",
+      "Continue exercise despite unstable vitals and symptoms",
+      "Avoid all aerobic training even when stable",
+      "Set workload from diagnosis label alone"
+    ],
+    "correctIndex": 0,
+    "rationale": "Cardiopulmonary PT requires ongoing monitoring and individualized intensity adjustments."
+  },
+  {
+    "id": "auto",
+    "category": "Cardio",
+    "difficulty": "hard",
+    "stem": "A 30-year-old in ICU step-down is being managed for postural hypotension during gait. Which action is BEST?",
+    "options": [
+      "Use symptom-limited progression with continuous cardiopulmonary monitoring",
+      "Continue exercise despite unstable vitals and symptoms",
+      "Avoid all aerobic training even when stable",
+      "Set workload from diagnosis label alone"
+    ],
+    "correctIndex": 0,
+    "rationale": "Cardiopulmonary PT requires ongoing monitoring and individualized intensity adjustments."
+  },
+  {
+    "id": "auto",
+    "category": "AcuteCare",
+    "difficulty": "hard",
+    "stem": "On a acute care floor, a 42-year-old demonstrates multiple lines and tubes before first transfer. Which response is most consistent with NPTE-level decision making?",
+    "options": [
+      "Verify medical stability and equipment safety before progressing mobility",
+      "Prioritize intensity over physiologic response",
+      "Disconnect lines to simplify movement practice",
+      "Cancel all mobility sessions for the hospitalization"
+    ],
+    "correctIndex": 0,
+    "rationale": "In acute care, immediate priorities are physiologic stability, line safety, and graded mobility."
+  },
+  {
+    "id": "auto",
+    "category": "AcuteCare",
+    "difficulty": "easy",
+    "stem": "On a step-down unit, a 60-year-old demonstrates ICU early mobility eligibility. Which finding should the PT prioritize?",
+    "options": [
+      "Verify medical stability and equipment safety before progressing mobility",
+      "Prioritize intensity over physiologic response",
+      "Disconnect lines to simplify movement practice",
+      "Cancel all mobility sessions for the hospitalization"
+    ],
+    "correctIndex": 0,
+    "rationale": "In acute care, immediate priorities are physiologic stability, line safety, and graded mobility."
+  },
+  {
+    "id": "auto",
+    "category": "AcuteCare",
+    "difficulty": "medium",
+    "stem": "On a step-down unit, a 63-year-old demonstrates orthostatic hypotension during dangling. What is the safest intervention?",
+    "options": [
+      "Verify medical stability and equipment safety before progressing mobility",
+      "Prioritize intensity over physiologic response",
+      "Disconnect lines to simplify movement practice",
+      "Cancel all mobility sessions for the hospitalization"
+    ],
+    "correctIndex": 0,
+    "rationale": "In acute care, immediate priorities are physiologic stability, line safety, and graded mobility."
+  },
+  {
+    "id": "auto",
+    "category": "AcuteCare",
+    "difficulty": "hard",
+    "stem": "On a ICU, a 33-year-old demonstrates newly diagnosed lower-extremity DVT. Which option best matches current evidence?",
+    "options": [
+      "Verify medical stability and equipment safety before progressing mobility",
+      "Prioritize intensity over physiologic response",
+      "Disconnect lines to simplify movement practice",
+      "Cancel all mobility sessions for the hospitalization"
+    ],
+    "correctIndex": 0,
+    "rationale": "In acute care, immediate priorities are physiologic stability, line safety, and graded mobility."
+  },
+  {
+    "id": "auto",
+    "category": "AcuteCare",
+    "difficulty": "easy",
+    "stem": "On a ICU, a 39-year-old demonstrates post-op abdominal surgery day 1. Which choice best addresses safety and function?",
+    "options": [
+      "Verify medical stability and equipment safety before progressing mobility",
+      "Prioritize intensity over physiologic response",
+      "Disconnect lines to simplify movement practice",
+      "Cancel all mobility sessions for the hospitalization"
+    ],
+    "correctIndex": 0,
+    "rationale": "In acute care, immediate priorities are physiologic stability, line safety, and graded mobility."
+  },
+  {
+    "id": "auto",
+    "category": "AcuteCare",
+    "difficulty": "medium",
+    "stem": "On a step-down unit, a 45-year-old demonstrates log-roll technique with spinal precautions. Which action is BEST?",
+    "options": [
+      "Verify medical stability and equipment safety before progressing mobility",
+      "Prioritize intensity over physiologic response",
+      "Disconnect lines to simplify movement practice",
+      "Cancel all mobility sessions for the hospitalization"
+    ],
+    "correctIndex": 0,
+    "rationale": "In acute care, immediate priorities are physiologic stability, line safety, and graded mobility."
+  },
+  {
+    "id": "auto",
+    "category": "AcuteCare",
+    "difficulty": "hard",
+    "stem": "On a step-down unit, a 63-year-old demonstrates max assist supine-to-sit mobility. What should be done first?",
+    "options": [
+      "Verify medical stability and equipment safety before progressing mobility",
+      "Prioritize intensity over physiologic response",
+      "Disconnect lines to simplify movement practice",
+      "Cancel all mobility sessions for the hospitalization"
+    ],
+    "correctIndex": 0,
+    "rationale": "In acute care, immediate priorities are physiologic stability, line safety, and graded mobility."
+  },
+  {
+    "id": "auto",
+    "category": "AcuteCare",
+    "difficulty": "easy",
+    "stem": "On a ICU, a 69-year-old demonstrates chest tube management during gait. What is the safest intervention?",
+    "options": [
+      "Verify medical stability and equipment safety before progressing mobility",
+      "Prioritize intensity over physiologic response",
+      "Disconnect lines to simplify movement practice",
+      "Cancel all mobility sessions for the hospitalization"
+    ],
+    "correctIndex": 0,
+    "rationale": "In acute care, immediate priorities are physiologic stability, line safety, and graded mobility."
+  },
+  {
+    "id": "auto",
+    "category": "AcuteCare",
+    "difficulty": "medium",
+    "stem": "On a step-down unit, a 36-year-old demonstrates recent extubation weakness. What is the MOST appropriate next step?",
+    "options": [
+      "Verify medical stability and equipment safety before progressing mobility",
+      "Prioritize intensity over physiologic response",
+      "Disconnect lines to simplify movement practice",
+      "Cancel all mobility sessions for the hospitalization"
+    ],
+    "correctIndex": 0,
+    "rationale": "In acute care, immediate priorities are physiologic stability, line safety, and graded mobility."
+  },
+  {
+    "id": "auto",
+    "category": "AcuteCare",
+    "difficulty": "hard",
+    "stem": "On a acute care floor, a 45-year-old demonstrates vasopressor support during mobility. Which option best matches current evidence?",
+    "options": [
+      "Verify medical stability and equipment safety before progressing mobility",
+      "Prioritize intensity over physiologic response",
+      "Disconnect lines to simplify movement practice",
+      "Cancel all mobility sessions for the hospitalization"
+    ],
+    "correctIndex": 0,
+    "rationale": "In acute care, immediate priorities are physiologic stability, line safety, and graded mobility."
+  },
+  {
+    "id": "auto",
+    "category": "AcuteCare",
+    "difficulty": "easy",
+    "stem": "On a ICU, a 33-year-old demonstrates agitation with delirium risk. What should be done first?",
+    "options": [
+      "Verify medical stability and equipment safety before progressing mobility",
+      "Prioritize intensity over physiologic response",
+      "Disconnect lines to simplify movement practice",
+      "Cancel all mobility sessions for the hospitalization"
+    ],
+    "correctIndex": 0,
+    "rationale": "In acute care, immediate priorities are physiologic stability, line safety, and graded mobility."
+  },
+  {
+    "id": "auto",
+    "category": "AcuteCare",
+    "difficulty": "medium",
+    "stem": "On a step-down unit, a 51-year-old demonstrates first ambulation after surgery. Which action is BEST?",
+    "options": [
+      "Verify medical stability and equipment safety before progressing mobility",
+      "Prioritize intensity over physiologic response",
+      "Disconnect lines to simplify movement practice",
+      "Cancel all mobility sessions for the hospitalization"
+    ],
+    "correctIndex": 0,
+    "rationale": "In acute care, immediate priorities are physiologic stability, line safety, and graded mobility."
+  },
+  {
+    "id": "auto",
+    "category": "AcuteCare",
+    "difficulty": "hard",
+    "stem": "On a step-down unit, a 60-year-old demonstrates post-op hip fracture precautions. What is the MOST appropriate next step?",
+    "options": [
+      "Verify medical stability and equipment safety before progressing mobility",
+      "Prioritize intensity over physiologic response",
+      "Disconnect lines to simplify movement practice",
+      "Cancel all mobility sessions for the hospitalization"
+    ],
+    "correctIndex": 0,
+    "rationale": "In acute care, immediate priorities are physiologic stability, line safety, and graded mobility."
+  },
+  {
+    "id": "auto",
+    "category": "AcuteCare",
+    "difficulty": "easy",
+    "stem": "On a ICU, a 30-year-old demonstrates pressure injury risk from immobility. What should be done first?",
+    "options": [
+      "Verify medical stability and equipment safety before progressing mobility",
+      "Prioritize intensity over physiologic response",
+      "Disconnect lines to simplify movement practice",
+      "Cancel all mobility sessions for the hospitalization"
+    ],
+    "correctIndex": 0,
+    "rationale": "In acute care, immediate priorities are physiologic stability, line safety, and graded mobility."
+  },
+  {
+    "id": "auto",
+    "category": "AcuteCare",
+    "difficulty": "medium",
+    "stem": "On a ICU, a 78-year-old demonstrates hemodynamic instability in sitting. Which response is most consistent with NPTE-level decision making?",
+    "options": [
+      "Verify medical stability and equipment safety before progressing mobility",
+      "Prioritize intensity over physiologic response",
+      "Disconnect lines to simplify movement practice",
+      "Cancel all mobility sessions for the hospitalization"
+    ],
+    "correctIndex": 0,
+    "rationale": "In acute care, immediate priorities are physiologic stability, line safety, and graded mobility."
+  },
+  {
+    "id": "auto",
+    "category": "AcuteCare",
+    "difficulty": "hard",
+    "stem": "On a acute care floor, a 72-year-old demonstrates tracheostomy plus oxygen needs. What is the safest intervention?",
+    "options": [
+      "Verify medical stability and equipment safety before progressing mobility",
+      "Prioritize intensity over physiologic response",
+      "Disconnect lines to simplify movement practice",
+      "Cancel all mobility sessions for the hospitalization"
+    ],
+    "correctIndex": 0,
+    "rationale": "In acute care, immediate priorities are physiologic stability, line safety, and graded mobility."
+  },
+  {
+    "id": "auto",
+    "category": "AcuteCare",
+    "difficulty": "easy",
+    "stem": "On a ICU, a 33-year-old demonstrates CRRT line safety. Which action is BEST?",
+    "options": [
+      "Verify medical stability and equipment safety before progressing mobility",
+      "Prioritize intensity over physiologic response",
+      "Disconnect lines to simplify movement practice",
+      "Cancel all mobility sessions for the hospitalization"
+    ],
+    "correctIndex": 0,
+    "rationale": "In acute care, immediate priorities are physiologic stability, line safety, and graded mobility."
+  },
+  {
+    "id": "auto",
+    "category": "AcuteCare",
+    "difficulty": "medium",
+    "stem": "On a step-down unit, a 42-year-old demonstrates ECMO mobility consult. What should be done first?",
+    "options": [
+      "Verify medical stability and equipment safety before progressing mobility",
+      "Prioritize intensity over physiologic response",
+      "Disconnect lines to simplify movement practice",
+      "Cancel all mobility sessions for the hospitalization"
+    ],
+    "correctIndex": 0,
+    "rationale": "In acute care, immediate priorities are physiologic stability, line safety, and graded mobility."
+  },
+  {
+    "id": "auto",
+    "category": "AcuteCare",
+    "difficulty": "hard",
+    "stem": "On a ICU, a 39-year-old demonstrates post-op drain protection. Which finding should the PT prioritize?",
+    "options": [
+      "Verify medical stability and equipment safety before progressing mobility",
+      "Prioritize intensity over physiologic response",
+      "Disconnect lines to simplify movement practice",
+      "Cancel all mobility sessions for the hospitalization"
+    ],
+    "correctIndex": 0,
+    "rationale": "In acute care, immediate priorities are physiologic stability, line safety, and graded mobility."
+  },
+  {
+    "id": "auto",
+    "category": "AcuteCare",
+    "difficulty": "easy",
+    "stem": "On a step-down unit, a 75-year-old demonstrates sepsis recovery deconditioning. Which choice best addresses safety and function?",
+    "options": [
+      "Verify medical stability and equipment safety before progressing mobility",
+      "Prioritize intensity over physiologic response",
+      "Disconnect lines to simplify movement practice",
+      "Cancel all mobility sessions for the hospitalization"
+    ],
+    "correctIndex": 0,
+    "rationale": "In acute care, immediate priorities are physiologic stability, line safety, and graded mobility."
+  },
+  {
+    "id": "auto",
+    "category": "AcuteCare",
+    "difficulty": "medium",
+    "stem": "On a step-down unit, a 72-year-old demonstrates ineffective cough after surgery. What is the MOST appropriate next step?",
+    "options": [
+      "Verify medical stability and equipment safety before progressing mobility",
+      "Prioritize intensity over physiologic response",
+      "Disconnect lines to simplify movement practice",
+      "Cancel all mobility sessions for the hospitalization"
+    ],
+    "correctIndex": 0,
+    "rationale": "In acute care, immediate priorities are physiologic stability, line safety, and graded mobility."
+  },
+  {
+    "id": "auto",
+    "category": "AcuteCare",
+    "difficulty": "hard",
+    "stem": "On a ICU, a 48-year-old demonstrates airway clearance positioning. Which response is most consistent with NPTE-level decision making?",
+    "options": [
+      "Verify medical stability and equipment safety before progressing mobility",
+      "Prioritize intensity over physiologic response",
+      "Disconnect lines to simplify movement practice",
+      "Cancel all mobility sessions for the hospitalization"
+    ],
+    "correctIndex": 0,
+    "rationale": "In acute care, immediate priorities are physiologic stability, line safety, and graded mobility."
+  },
+  {
+    "id": "auto",
+    "category": "AcuteCare",
+    "difficulty": "easy",
+    "stem": "On a step-down unit, a 78-year-old demonstrates in-bed cycling decision. Which finding should the PT prioritize?",
+    "options": [
+      "Verify medical stability and equipment safety before progressing mobility",
+      "Prioritize intensity over physiologic response",
+      "Disconnect lines to simplify movement practice",
+      "Cancel all mobility sessions for the hospitalization"
+    ],
+    "correctIndex": 0,
+    "rationale": "In acute care, immediate priorities are physiologic stability, line safety, and graded mobility."
+  },
+  {
+    "id": "auto",
+    "category": "AcuteCare",
+    "difficulty": "medium",
+    "stem": "On a step-down unit, a 75-year-old demonstrates transfer with knee immobilizer. Which response is most consistent with NPTE-level decision making?",
+    "options": [
+      "Verify medical stability and equipment safety before progressing mobility",
+      "Prioritize intensity over physiologic response",
+      "Disconnect lines to simplify movement practice",
+      "Cancel all mobility sessions for the hospitalization"
+    ],
+    "correctIndex": 0,
+    "rationale": "In acute care, immediate priorities are physiologic stability, line safety, and graded mobility."
+  },
+  {
+    "id": "auto",
+    "category": "AcuteCare",
+    "difficulty": "hard",
+    "stem": "On a step-down unit, a 54-year-old demonstrates oxygen line entanglement risk. Which option best matches current evidence?",
+    "options": [
+      "Verify medical stability and equipment safety before progressing mobility",
+      "Prioritize intensity over physiologic response",
+      "Disconnect lines to simplify movement practice",
+      "Cancel all mobility sessions for the hospitalization"
+    ],
+    "correctIndex": 0,
+    "rationale": "In acute care, immediate priorities are physiologic stability, line safety, and graded mobility."
+  },
+  {
+    "id": "auto",
+    "category": "AcuteCare",
+    "difficulty": "easy",
+    "stem": "On a acute care floor, a 84-year-old demonstrates telemetry lead displacement. Which response is most consistent with NPTE-level decision making?",
+    "options": [
+      "Verify medical stability and equipment safety before progressing mobility",
+      "Prioritize intensity over physiologic response",
+      "Disconnect lines to simplify movement practice",
+      "Cancel all mobility sessions for the hospitalization"
+    ],
+    "correctIndex": 0,
+    "rationale": "In acute care, immediate priorities are physiologic stability, line safety, and graded mobility."
+  },
+  {
+    "id": "auto",
+    "category": "AcuteCare",
+    "difficulty": "medium",
+    "stem": "On a step-down unit, a 39-year-old demonstrates rapid response trigger signs. Which response is most consistent with NPTE-level decision making?",
+    "options": [
+      "Verify medical stability and equipment safety before progressing mobility",
+      "Prioritize intensity over physiologic response",
+      "Disconnect lines to simplify movement practice",
+      "Cancel all mobility sessions for the hospitalization"
+    ],
+    "correctIndex": 0,
+    "rationale": "In acute care, immediate priorities are physiologic stability, line safety, and graded mobility."
+  },
+  {
+    "id": "auto",
+    "category": "AcuteCare",
+    "difficulty": "hard",
+    "stem": "On a ICU, a 81-year-old demonstrates bed mobility dependence. What is the safest intervention?",
+    "options": [
+      "Verify medical stability and equipment safety before progressing mobility",
+      "Prioritize intensity over physiologic response",
+      "Disconnect lines to simplify movement practice",
+      "Cancel all mobility sessions for the hospitalization"
+    ],
+    "correctIndex": 0,
+    "rationale": "In acute care, immediate priorities are physiologic stability, line safety, and graded mobility."
+  },
+  {
+    "id": "auto",
+    "category": "AcuteCare",
+    "difficulty": "easy",
+    "stem": "On a step-down unit, a 66-year-old demonstrates sit-to-stand hypotension. What is the MOST appropriate next step?",
+    "options": [
+      "Verify medical stability and equipment safety before progressing mobility",
+      "Prioritize intensity over physiologic response",
+      "Disconnect lines to simplify movement practice",
+      "Cancel all mobility sessions for the hospitalization"
+    ],
+    "correctIndex": 0,
+    "rationale": "In acute care, immediate priorities are physiologic stability, line safety, and graded mobility."
+  },
+  {
+    "id": "auto",
+    "category": "AcuteCare",
+    "difficulty": "medium",
+    "stem": "On a acute care floor, a 75-year-old demonstrates hospital fall-risk protocol. Which option best matches current evidence?",
+    "options": [
+      "Verify medical stability and equipment safety before progressing mobility",
+      "Prioritize intensity over physiologic response",
+      "Disconnect lines to simplify movement practice",
+      "Cancel all mobility sessions for the hospitalization"
+    ],
+    "correctIndex": 0,
+    "rationale": "In acute care, immediate priorities are physiologic stability, line safety, and graded mobility."
+  },
+  {
+    "id": "auto",
+    "category": "Peds",
+    "difficulty": "easy",
+    "stem": "A 1-year-old child evaluated in a family home presents with delayed rolling and sitting milestones. Which action is BEST?",
+    "options": [
+      "Use developmentally appropriate, family-centered, participation-focused care",
+      "Apply adult orthopedic protocols without adaptation",
+      "Set goals without parent or teacher collaboration",
+      "Avoid play and task-specific practice"
+    ],
+    "correctIndex": 0,
+    "rationale": "Pediatric interventions should be age-appropriate and linked to function at home and school."
+  },
+  {
+    "id": "auto",
+    "category": "Peds",
+    "difficulty": "medium",
+    "stem": "A 13-year-old child evaluated in a family home presents with spastic diplegic cerebral palsy. What is the MOST appropriate next step?",
+    "options": [
+      "Use developmentally appropriate, family-centered, participation-focused care",
+      "Apply adult orthopedic protocols without adaptation",
+      "Set goals without parent or teacher collaboration",
+      "Avoid play and task-specific practice"
+    ],
+    "correctIndex": 0,
+    "rationale": "Pediatric interventions should be age-appropriate and linked to function at home and school."
+  },
+  {
+    "id": "auto",
+    "category": "Peds",
+    "difficulty": "hard",
+    "stem": "A 16-year-old child evaluated in a school setting presents with developmental dysplasia of the hip follow-up. Which finding should the PT prioritize?",
+    "options": [
+      "Use developmentally appropriate, family-centered, participation-focused care",
+      "Apply adult orthopedic protocols without adaptation",
+      "Set goals without parent or teacher collaboration",
+      "Avoid play and task-specific practice"
+    ],
+    "correctIndex": 0,
+    "rationale": "Pediatric interventions should be age-appropriate and linked to function at home and school."
+  },
+  {
+    "id": "auto",
+    "category": "Peds",
+    "difficulty": "easy",
+    "stem": "A 3-year-old child evaluated in a family home presents with spina bifida at L4 level. Which choice best addresses safety and function?",
+    "options": [
+      "Use developmentally appropriate, family-centered, participation-focused care",
+      "Apply adult orthopedic protocols without adaptation",
+      "Set goals without parent or teacher collaboration",
+      "Avoid play and task-specific practice"
+    ],
+    "correctIndex": 0,
+    "rationale": "Pediatric interventions should be age-appropriate and linked to function at home and school."
+  },
+  {
+    "id": "auto",
+    "category": "Peds",
+    "difficulty": "medium",
+    "stem": "A 14-year-old child evaluated in a pediatric outpatient clinic presents with school-based participation goal deficit. Which response is most consistent with NPTE-level decision making?",
+    "options": [
+      "Use developmentally appropriate, family-centered, participation-focused care",
+      "Apply adult orthopedic protocols without adaptation",
+      "Set goals without parent or teacher collaboration",
+      "Avoid play and task-specific practice"
+    ],
+    "correctIndex": 0,
+    "rationale": "Pediatric interventions should be age-appropriate and linked to function at home and school."
+  },
+  {
+    "id": "auto",
+    "category": "Peds",
+    "difficulty": "hard",
+    "stem": "A 8-year-old child evaluated in a pediatric outpatient clinic presents with persistent asymmetric tonic neck reflex. Which choice best addresses safety and function?",
+    "options": [
+      "Use developmentally appropriate, family-centered, participation-focused care",
+      "Apply adult orthopedic protocols without adaptation",
+      "Set goals without parent or teacher collaboration",
+      "Avoid play and task-specific practice"
+    ],
+    "correctIndex": 0,
+    "rationale": "Pediatric interventions should be age-appropriate and linked to function at home and school."
+  },
+  {
+    "id": "auto",
+    "category": "Peds",
+    "difficulty": "easy",
+    "stem": "A 5-year-old child evaluated in a pediatric outpatient clinic presents with toe walking in a preschool student. Which option best matches current evidence?",
+    "options": [
+      "Use developmentally appropriate, family-centered, participation-focused care",
+      "Apply adult orthopedic protocols without adaptation",
+      "Set goals without parent or teacher collaboration",
+      "Avoid play and task-specific practice"
+    ],
+    "correctIndex": 0,
+    "rationale": "Pediatric interventions should be age-appropriate and linked to function at home and school."
+  },
+  {
+    "id": "auto",
+    "category": "Peds",
+    "difficulty": "medium",
+    "stem": "A 16-year-old child evaluated in a family home presents with congenital muscular torticollis. What should be done first?",
+    "options": [
+      "Use developmentally appropriate, family-centered, participation-focused care",
+      "Apply adult orthopedic protocols without adaptation",
+      "Set goals without parent or teacher collaboration",
+      "Avoid play and task-specific practice"
+    ],
+    "correctIndex": 0,
+    "rationale": "Pediatric interventions should be age-appropriate and linked to function at home and school."
+  },
+  {
+    "id": "auto",
+    "category": "Peds",
+    "difficulty": "hard",
+    "stem": "A 4-year-old child evaluated in a school setting presents with Down syndrome hypotonia. Which option best matches current evidence?",
+    "options": [
+      "Use developmentally appropriate, family-centered, participation-focused care",
+      "Apply adult orthopedic protocols without adaptation",
+      "Set goals without parent or teacher collaboration",
+      "Avoid play and task-specific practice"
+    ],
+    "correctIndex": 0,
+    "rationale": "Pediatric interventions should be age-appropriate and linked to function at home and school."
+  },
+  {
+    "id": "auto",
+    "category": "Peds",
+    "difficulty": "easy",
+    "stem": "A 1-year-old child evaluated in a pediatric outpatient clinic presents with juvenile idiopathic arthritis flare planning. Which finding should the PT prioritize?",
+    "options": [
+      "Use developmentally appropriate, family-centered, participation-focused care",
+      "Apply adult orthopedic protocols without adaptation",
+      "Set goals without parent or teacher collaboration",
+      "Avoid play and task-specific practice"
+    ],
+    "correctIndex": 0,
+    "rationale": "Pediatric interventions should be age-appropriate and linked to function at home and school."
+  },
+  {
+    "id": "auto",
+    "category": "Peds",
+    "difficulty": "medium",
+    "stem": "A 1-year-old child evaluated in a school setting presents with early intervention caregiver coaching. What is the safest intervention?",
+    "options": [
+      "Use developmentally appropriate, family-centered, participation-focused care",
+      "Apply adult orthopedic protocols without adaptation",
+      "Set goals without parent or teacher collaboration",
+      "Avoid play and task-specific practice"
+    ],
+    "correctIndex": 0,
+    "rationale": "Pediatric interventions should be age-appropriate and linked to function at home and school."
+  },
+  {
+    "id": "auto",
+    "category": "Peds",
+    "difficulty": "hard",
+    "stem": "A 5-year-old child evaluated in a school setting presents with gross motor delay at 15 months. Which action is BEST?",
+    "options": [
+      "Use developmentally appropriate, family-centered, participation-focused care",
+      "Apply adult orthopedic protocols without adaptation",
+      "Set goals without parent or teacher collaboration",
+      "Avoid play and task-specific practice"
+    ],
+    "correctIndex": 0,
+    "rationale": "Pediatric interventions should be age-appropriate and linked to function at home and school."
+  },
+  {
+    "id": "auto",
+    "category": "Peds",
+    "difficulty": "easy",
+    "stem": "A 10-year-old child evaluated in a pediatric outpatient clinic presents with NICU discharge developmental positioning. What should be done first?",
+    "options": [
+      "Use developmentally appropriate, family-centered, participation-focused care",
+      "Apply adult orthopedic protocols without adaptation",
+      "Set goals without parent or teacher collaboration",
+      "Avoid play and task-specific practice"
+    ],
+    "correctIndex": 0,
+    "rationale": "Pediatric interventions should be age-appropriate and linked to function at home and school."
+  },
+  {
+    "id": "auto",
+    "category": "Peds",
+    "difficulty": "medium",
+    "stem": "A 8-year-old child evaluated in a family home presents with classroom endurance limitations. Which choice best addresses safety and function?",
+    "options": [
+      "Use developmentally appropriate, family-centered, participation-focused care",
+      "Apply adult orthopedic protocols without adaptation",
+      "Set goals without parent or teacher collaboration",
+      "Avoid play and task-specific practice"
+    ],
+    "correctIndex": 0,
+    "rationale": "Pediatric interventions should be age-appropriate and linked to function at home and school."
+  },
+  {
+    "id": "auto",
+    "category": "Peds",
+    "difficulty": "hard",
+    "stem": "A 4-year-old child evaluated in a pediatric outpatient clinic presents with pediatric balance impairment. What is the MOST appropriate next step?",
+    "options": [
+      "Use developmentally appropriate, family-centered, participation-focused care",
+      "Apply adult orthopedic protocols without adaptation",
+      "Set goals without parent or teacher collaboration",
+      "Avoid play and task-specific practice"
+    ],
+    "correctIndex": 0,
+    "rationale": "Pediatric interventions should be age-appropriate and linked to function at home and school."
+  },
+  {
+    "id": "auto",
+    "category": "Peds",
+    "difficulty": "easy",
+    "stem": "A 9-year-old child evaluated in a family home presents with handwriting fatigue. What is the safest intervention?",
+    "options": [
+      "Use developmentally appropriate, family-centered, participation-focused care",
+      "Apply adult orthopedic protocols without adaptation",
+      "Set goals without parent or teacher collaboration",
+      "Avoid play and task-specific practice"
+    ],
+    "correctIndex": 0,
+    "rationale": "Pediatric interventions should be age-appropriate and linked to function at home and school."
+  },
+  {
+    "id": "auto",
+    "category": "Peds",
+    "difficulty": "medium",
+    "stem": "A 14-year-old child evaluated in a school setting presents with wheelchair mobility at school. Which option best matches current evidence?",
+    "options": [
+      "Use developmentally appropriate, family-centered, participation-focused care",
+      "Apply adult orthopedic protocols without adaptation",
+      "Set goals without parent or teacher collaboration",
+      "Avoid play and task-specific practice"
+    ],
+    "correctIndex": 0,
+    "rationale": "Pediatric interventions should be age-appropriate and linked to function at home and school."
+  },
+  {
+    "id": "auto",
+    "category": "Peds",
+    "difficulty": "hard",
+    "stem": "A 14-year-old child evaluated in a family home presents with caregiver transfer training for CP. Which finding should the PT prioritize?",
+    "options": [
+      "Use developmentally appropriate, family-centered, participation-focused care",
+      "Apply adult orthopedic protocols without adaptation",
+      "Set goals without parent or teacher collaboration",
+      "Avoid play and task-specific practice"
+    ],
+    "correctIndex": 0,
+    "rationale": "Pediatric interventions should be age-appropriate and linked to function at home and school."
+  },
+  {
+    "id": "auto",
+    "category": "Peds",
+    "difficulty": "easy",
+    "stem": "A 7-year-old child evaluated in a family home presents with DDH parent education. What is the safest intervention?",
+    "options": [
+      "Use developmentally appropriate, family-centered, participation-focused care",
+      "Apply adult orthopedic protocols without adaptation",
+      "Set goals without parent or teacher collaboration",
+      "Avoid play and task-specific practice"
+    ],
+    "correctIndex": 0,
+    "rationale": "Pediatric interventions should be age-appropriate and linked to function at home and school."
+  },
+  {
+    "id": "auto",
+    "category": "Peds",
+    "difficulty": "medium",
+    "stem": "A 7-year-old child evaluated in a family home presents with retained primitive reflexes affecting play. Which finding should the PT prioritize?",
+    "options": [
+      "Use developmentally appropriate, family-centered, participation-focused care",
+      "Apply adult orthopedic protocols without adaptation",
+      "Set goals without parent or teacher collaboration",
+      "Avoid play and task-specific practice"
+    ],
+    "correctIndex": 0,
+    "rationale": "Pediatric interventions should be age-appropriate and linked to function at home and school."
+  },
+  {
+    "id": "auto",
+    "category": "Geriatrics",
+    "difficulty": "medium",
+    "stem": "An 72-year-old in outpatient balance clinic is referred for recurrent falls in the bathroom. What should be done first?",
+    "options": [
+      "Integrate balance, strength, environment, and device training based on exam findings",
+      "Recommend bed rest as the primary fall-prevention strategy",
+      "Issue assistive equipment without fitting or instruction",
+      "Ignore cognitive status during plan of care"
+    ],
+    "correctIndex": 0,
+    "rationale": "Comprehensive geriatric PT addresses intrinsic and extrinsic fall-risk contributors."
+  },
+  {
+    "id": "auto",
+    "category": "Geriatrics",
+    "difficulty": "hard",
+    "stem": "An 70-year-old in SNF is referred for Berg Balance Scale score of 38/56. What should be done first?",
+    "options": [
+      "Integrate balance, strength, environment, and device training based on exam findings",
+      "Recommend bed rest as the primary fall-prevention strategy",
+      "Issue assistive equipment without fitting or instruction",
+      "Ignore cognitive status during plan of care"
+    ],
+    "correctIndex": 0,
+    "rationale": "Comprehensive geriatric PT addresses intrinsic and extrinsic fall-risk contributors."
+  },
+  {
+    "id": "auto",
+    "category": "Geriatrics",
+    "difficulty": "easy",
+    "stem": "An 72-year-old in home health is referred for Timed Up and Go time of 19 seconds. What is the safest intervention?",
+    "options": [
+      "Integrate balance, strength, environment, and device training based on exam findings",
+      "Recommend bed rest as the primary fall-prevention strategy",
+      "Issue assistive equipment without fitting or instruction",
+      "Ignore cognitive status during plan of care"
+    ],
+    "correctIndex": 0,
+    "rationale": "Comprehensive geriatric PT addresses intrinsic and extrinsic fall-risk contributors."
+  },
+  {
+    "id": "auto",
+    "category": "Geriatrics",
+    "difficulty": "medium",
+    "stem": "An 68-year-old in home health is referred for osteoporosis with kyphotic posture. What is the safest intervention?",
+    "options": [
+      "Integrate balance, strength, environment, and device training based on exam findings",
+      "Recommend bed rest as the primary fall-prevention strategy",
+      "Issue assistive equipment without fitting or instruction",
+      "Ignore cognitive status during plan of care"
+    ],
+    "correctIndex": 0,
+    "rationale": "Comprehensive geriatric PT addresses intrinsic and extrinsic fall-risk contributors."
+  },
+  {
+    "id": "auto",
+    "category": "Geriatrics",
+    "difficulty": "hard",
+    "stem": "An 70-year-old in outpatient balance clinic is referred for moderate dementia affecting carryover. What is the MOST appropriate next step?",
+    "options": [
+      "Integrate balance, strength, environment, and device training based on exam findings",
+      "Recommend bed rest as the primary fall-prevention strategy",
+      "Issue assistive equipment without fitting or instruction",
+      "Ignore cognitive status during plan of care"
+    ],
+    "correctIndex": 0,
+    "rationale": "Comprehensive geriatric PT addresses intrinsic and extrinsic fall-risk contributors."
+  },
+  {
+    "id": "auto",
+    "category": "Geriatrics",
+    "difficulty": "easy",
+    "stem": "An 74-year-old in SNF is referred for rolling walker fit problem. What is the MOST appropriate next step?",
+    "options": [
+      "Integrate balance, strength, environment, and device training based on exam findings",
+      "Recommend bed rest as the primary fall-prevention strategy",
+      "Issue assistive equipment without fitting or instruction",
+      "Ignore cognitive status during plan of care"
+    ],
+    "correctIndex": 0,
+    "rationale": "Comprehensive geriatric PT addresses intrinsic and extrinsic fall-risk contributors."
+  },
+  {
+    "id": "auto",
+    "category": "Geriatrics",
+    "difficulty": "medium",
+    "stem": "An 78-year-old in SNF is referred for single-point cane sequencing issue. Which finding should the PT prioritize?",
+    "options": [
+      "Integrate balance, strength, environment, and device training based on exam findings",
+      "Recommend bed rest as the primary fall-prevention strategy",
+      "Issue assistive equipment without fitting or instruction",
+      "Ignore cognitive status during plan of care"
+    ],
+    "correctIndex": 0,
+    "rationale": "Comprehensive geriatric PT addresses intrinsic and extrinsic fall-risk contributors."
+  },
+  {
+    "id": "auto",
+    "category": "Geriatrics",
+    "difficulty": "hard",
+    "stem": "An 72-year-old in SNF is referred for polypharmacy-related dizziness. Which action is BEST?",
+    "options": [
+      "Integrate balance, strength, environment, and device training based on exam findings",
+      "Recommend bed rest as the primary fall-prevention strategy",
+      "Issue assistive equipment without fitting or instruction",
+      "Ignore cognitive status during plan of care"
+    ],
+    "correctIndex": 0,
+    "rationale": "Comprehensive geriatric PT addresses intrinsic and extrinsic fall-risk contributors."
+  },
+  {
+    "id": "auto",
+    "category": "Geriatrics",
+    "difficulty": "easy",
+    "stem": "An 68-year-old in home health is referred for fear of falling and activity restriction. What should be done first?",
+    "options": [
+      "Integrate balance, strength, environment, and device training based on exam findings",
+      "Recommend bed rest as the primary fall-prevention strategy",
+      "Issue assistive equipment without fitting or instruction",
+      "Ignore cognitive status during plan of care"
+    ],
+    "correctIndex": 0,
+    "rationale": "Comprehensive geriatric PT addresses intrinsic and extrinsic fall-risk contributors."
+  },
+  {
+    "id": "auto",
+    "category": "Geriatrics",
+    "difficulty": "medium",
+    "stem": "An 76-year-old in home health is referred for home clutter and trip hazards. What should be done first?",
+    "options": [
+      "Integrate balance, strength, environment, and device training based on exam findings",
+      "Recommend bed rest as the primary fall-prevention strategy",
+      "Issue assistive equipment without fitting or instruction",
+      "Ignore cognitive status during plan of care"
+    ],
+    "correctIndex": 0,
+    "rationale": "Comprehensive geriatric PT addresses intrinsic and extrinsic fall-risk contributors."
+  },
+  {
+    "id": "auto",
+    "category": "Geriatrics",
+    "difficulty": "hard",
+    "stem": "An 82-year-old in outpatient balance clinic is referred for five-times-sit-to-stand weakness. What is the safest intervention?",
+    "options": [
+      "Integrate balance, strength, environment, and device training based on exam findings",
+      "Recommend bed rest as the primary fall-prevention strategy",
+      "Issue assistive equipment without fitting or instruction",
+      "Ignore cognitive status during plan of care"
+    ],
+    "correctIndex": 0,
+    "rationale": "Comprehensive geriatric PT addresses intrinsic and extrinsic fall-risk contributors."
+  },
+  {
+    "id": "auto",
+    "category": "Geriatrics",
+    "difficulty": "easy",
+    "stem": "An 90-year-old in home health is referred for dual-task gait impairment. Which choice best addresses safety and function?",
+    "options": [
+      "Integrate balance, strength, environment, and device training based on exam findings",
+      "Recommend bed rest as the primary fall-prevention strategy",
+      "Issue assistive equipment without fitting or instruction",
+      "Ignore cognitive status during plan of care"
+    ],
+    "correctIndex": 0,
+    "rationale": "Comprehensive geriatric PT addresses intrinsic and extrinsic fall-risk contributors."
+  },
+  {
+    "id": "auto",
+    "category": "Geriatrics",
+    "difficulty": "medium",
+    "stem": "An 68-year-old in home health is referred for orthostatic symptoms in SNF. Which action is BEST?",
+    "options": [
+      "Integrate balance, strength, environment, and device training based on exam findings",
+      "Recommend bed rest as the primary fall-prevention strategy",
+      "Issue assistive equipment without fitting or instruction",
+      "Ignore cognitive status during plan of care"
+    ],
+    "correctIndex": 0,
+    "rationale": "Comprehensive geriatric PT addresses intrinsic and extrinsic fall-risk contributors."
+  },
+  {
+    "id": "auto",
+    "category": "Geriatrics",
+    "difficulty": "hard",
+    "stem": "An 90-year-old in outpatient balance clinic is referred for hip fracture risk counseling. Which choice best addresses safety and function?",
+    "options": [
+      "Integrate balance, strength, environment, and device training based on exam findings",
+      "Recommend bed rest as the primary fall-prevention strategy",
+      "Issue assistive equipment without fitting or instruction",
+      "Ignore cognitive status during plan of care"
+    ],
+    "correctIndex": 0,
+    "rationale": "Comprehensive geriatric PT addresses intrinsic and extrinsic fall-risk contributors."
+  },
+  {
+    "id": "auto",
+    "category": "Geriatrics",
+    "difficulty": "easy",
+    "stem": "An 70-year-old in home health is referred for frailty syndrome. Which finding should the PT prioritize?",
+    "options": [
+      "Integrate balance, strength, environment, and device training based on exam findings",
+      "Recommend bed rest as the primary fall-prevention strategy",
+      "Issue assistive equipment without fitting or instruction",
+      "Ignore cognitive status during plan of care"
+    ],
+    "correctIndex": 0,
+    "rationale": "Comprehensive geriatric PT addresses intrinsic and extrinsic fall-risk contributors."
+  },
+  {
+    "id": "auto",
+    "category": "Geriatrics",
+    "difficulty": "medium",
+    "stem": "An 68-year-old in home health is referred for vision-related balance deficit. Which finding should the PT prioritize?",
+    "options": [
+      "Integrate balance, strength, environment, and device training based on exam findings",
+      "Recommend bed rest as the primary fall-prevention strategy",
+      "Issue assistive equipment without fitting or instruction",
+      "Ignore cognitive status during plan of care"
+    ],
+    "correctIndex": 0,
+    "rationale": "Comprehensive geriatric PT addresses intrinsic and extrinsic fall-risk contributors."
+  },
+  {
+    "id": "auto",
+    "category": "Geriatrics",
+    "difficulty": "hard",
+    "stem": "An 70-year-old in SNF is referred for community ambulation fatigue. What is the MOST appropriate next step?",
+    "options": [
+      "Integrate balance, strength, environment, and device training based on exam findings",
+      "Recommend bed rest as the primary fall-prevention strategy",
+      "Issue assistive equipment without fitting or instruction",
+      "Ignore cognitive status during plan of care"
+    ],
+    "correctIndex": 0,
+    "rationale": "Comprehensive geriatric PT addresses intrinsic and extrinsic fall-risk contributors."
+  },
+  {
+    "id": "auto",
+    "category": "Geriatrics",
+    "difficulty": "easy",
+    "stem": "An 84-year-old in home health is referred for caregiver transfer burden. Which finding should the PT prioritize?",
+    "options": [
+      "Integrate balance, strength, environment, and device training based on exam findings",
+      "Recommend bed rest as the primary fall-prevention strategy",
+      "Issue assistive equipment without fitting or instruction",
+      "Ignore cognitive status during plan of care"
+    ],
+    "correctIndex": 0,
+    "rationale": "Comprehensive geriatric PT addresses intrinsic and extrinsic fall-risk contributors."
+  },
+  {
+    "id": "auto",
+    "category": "Geriatrics",
+    "difficulty": "medium",
+    "stem": "An 86-year-old in SNF is referred for osteopenia exercise planning. What is the MOST appropriate next step?",
+    "options": [
+      "Integrate balance, strength, environment, and device training based on exam findings",
+      "Recommend bed rest as the primary fall-prevention strategy",
+      "Issue assistive equipment without fitting or instruction",
+      "Ignore cognitive status during plan of care"
+    ],
+    "correctIndex": 0,
+    "rationale": "Comprehensive geriatric PT addresses intrinsic and extrinsic fall-risk contributors."
+  },
+  {
+    "id": "auto",
+    "category": "Geriatrics",
+    "difficulty": "hard",
+    "stem": "An 90-year-old in home health is referred for assistive device misuse. What should be done first?",
+    "options": [
+      "Integrate balance, strength, environment, and device training based on exam findings",
+      "Recommend bed rest as the primary fall-prevention strategy",
+      "Issue assistive equipment without fitting or instruction",
+      "Ignore cognitive status during plan of care"
+    ],
+    "correctIndex": 0,
+    "rationale": "Comprehensive geriatric PT addresses intrinsic and extrinsic fall-risk contributors."
+  },
+  {
+    "id": "auto",
+    "category": "Modalities",
+    "difficulty": "easy",
+    "stem": "In a school gym, a 48-year-old requires decision-making about heat application over acute inflammation. Which option best matches current evidence?",
+    "options": [
+      "Screen indications and contraindications, then select safe evidence-based parameters",
+      "Use maximum intensity regardless of tissue response",
+      "Apply treatment over absent sensation without testing",
+      "Continue despite adverse reactions"
+    ],
+    "correctIndex": 0,
+    "rationale": "Safe modality use depends on contraindication screening, dosage selection, and response monitoring."
+  },
+  {
+    "id": "auto",
+    "category": "Modalities",
+    "difficulty": "medium",
+    "stem": "In a intensive care unit, a 60-year-old requires decision-making about cryotherapy dosing after ankle sprain. Which option best matches current evidence?",
+    "options": [
+      "Screen indications and contraindications, then select safe evidence-based parameters",
+      "Use maximum intensity regardless of tissue response",
+      "Apply treatment over absent sensation without testing",
+      "Continue despite adverse reactions"
+    ],
+    "correctIndex": 0,
+    "rationale": "Safe modality use depends on contraindication screening, dosage selection, and response monitoring."
+  },
+  {
+    "id": "auto",
+    "category": "Modalities",
+    "difficulty": "hard",
+    "stem": "In a patient's home, a 30-year-old requires decision-making about ultrasound parameter selection. What should be done first?",
+    "options": [
+      "Screen indications and contraindications, then select safe evidence-based parameters",
+      "Use maximum intensity regardless of tissue response",
+      "Apply treatment over absent sensation without testing",
+      "Continue despite adverse reactions"
+    ],
+    "correctIndex": 0,
+    "rationale": "Safe modality use depends on contraindication screening, dosage selection, and response monitoring."
+  },
+  {
+    "id": "auto",
+    "category": "Modalities",
+    "difficulty": "easy",
+    "stem": "In a skilled nursing facility, a 15-year-old requires decision-making about NMES for quadriceps activation. Which action is BEST?",
+    "options": [
+      "Screen indications and contraindications, then select safe evidence-based parameters",
+      "Use maximum intensity regardless of tissue response",
+      "Apply treatment over absent sensation without testing",
+      "Continue despite adverse reactions"
+    ],
+    "correctIndex": 0,
+    "rationale": "Safe modality use depends on contraindication screening, dosage selection, and response monitoring."
+  },
+  {
+    "id": "auto",
+    "category": "Modalities",
+    "difficulty": "medium",
+    "stem": "In a outpatient clinic, a 30-year-old requires decision-making about lumbar traction appropriateness. Which option best matches current evidence?",
+    "options": [
+      "Screen indications and contraindications, then select safe evidence-based parameters",
+      "Use maximum intensity regardless of tissue response",
+      "Apply treatment over absent sensation without testing",
+      "Continue despite adverse reactions"
+    ],
+    "correctIndex": 0,
+    "rationale": "Safe modality use depends on contraindication screening, dosage selection, and response monitoring."
+  },
+  {
+    "id": "auto",
+    "category": "Modalities",
+    "difficulty": "hard",
+    "stem": "In a intensive care unit, a 54-year-old requires decision-making about electrical stimulation for chronic wound healing. What should be done first?",
+    "options": [
+      "Screen indications and contraindications, then select safe evidence-based parameters",
+      "Use maximum intensity regardless of tissue response",
+      "Apply treatment over absent sensation without testing",
+      "Continue despite adverse reactions"
+    ],
+    "correctIndex": 0,
+    "rationale": "Safe modality use depends on contraindication screening, dosage selection, and response monitoring."
+  },
+  {
+    "id": "auto",
+    "category": "Modalities",
+    "difficulty": "easy",
+    "stem": "In a outpatient clinic, a 48-year-old requires decision-making about heat contraindication with impaired sensation. Which finding should the PT prioritize?",
+    "options": [
+      "Screen indications and contraindications, then select safe evidence-based parameters",
+      "Use maximum intensity regardless of tissue response",
+      "Apply treatment over absent sensation without testing",
+      "Continue despite adverse reactions"
+    ],
+    "correctIndex": 0,
+    "rationale": "Safe modality use depends on contraindication screening, dosage selection, and response monitoring."
+  },
+  {
+    "id": "auto",
+    "category": "Modalities",
+    "difficulty": "medium",
+    "stem": "In a patient's home, a 21-year-old requires decision-making about ice use after delayed-onset soreness. Which action is BEST?",
+    "options": [
+      "Screen indications and contraindications, then select safe evidence-based parameters",
+      "Use maximum intensity regardless of tissue response",
+      "Apply treatment over absent sensation without testing",
+      "Continue despite adverse reactions"
+    ],
+    "correctIndex": 0,
+    "rationale": "Safe modality use depends on contraindication screening, dosage selection, and response monitoring."
+  },
+  {
+    "id": "auto",
+    "category": "Modalities",
+    "difficulty": "hard",
+    "stem": "In a acute care unit, a 42-year-old requires decision-making about phonophoresis indication screening. Which option best matches current evidence?",
+    "options": [
+      "Screen indications and contraindications, then select safe evidence-based parameters",
+      "Use maximum intensity regardless of tissue response",
+      "Apply treatment over absent sensation without testing",
+      "Continue despite adverse reactions"
+    ],
+    "correctIndex": 0,
+    "rationale": "Safe modality use depends on contraindication screening, dosage selection, and response monitoring."
+  },
+  {
+    "id": "auto",
+    "category": "Modalities",
+    "difficulty": "easy",
+    "stem": "In a patient's home, a 66-year-old requires decision-making about TENS for persistent low back pain. What is the safest intervention?",
+    "options": [
+      "Screen indications and contraindications, then select safe evidence-based parameters",
+      "Use maximum intensity regardless of tissue response",
+      "Apply treatment over absent sensation without testing",
+      "Continue despite adverse reactions"
+    ],
+    "correctIndex": 0,
+    "rationale": "Safe modality use depends on contraindication screening, dosage selection, and response monitoring."
+  },
+  {
+    "id": "auto",
+    "category": "Modalities",
+    "difficulty": "medium",
+    "stem": "In a patient's home, a 60-year-old requires decision-making about high-voltage pulsed current for edema. What should be done first?",
+    "options": [
+      "Screen indications and contraindications, then select safe evidence-based parameters",
+      "Use maximum intensity regardless of tissue response",
+      "Apply treatment over absent sensation without testing",
+      "Continue despite adverse reactions"
+    ],
+    "correctIndex": 0,
+    "rationale": "Safe modality use depends on contraindication screening, dosage selection, and response monitoring."
+  },
+  {
+    "id": "auto",
+    "category": "Modalities",
+    "difficulty": "hard",
+    "stem": "In a intensive care unit, a 87-year-old requires decision-making about cervical traction contraindication. Which response is most consistent with NPTE-level decision making?",
+    "options": [
+      "Screen indications and contraindications, then select safe evidence-based parameters",
+      "Use maximum intensity regardless of tissue response",
+      "Apply treatment over absent sensation without testing",
+      "Continue despite adverse reactions"
+    ],
+    "correctIndex": 0,
+    "rationale": "Safe modality use depends on contraindication screening, dosage selection, and response monitoring."
+  },
+  {
+    "id": "auto",
+    "category": "Modalities",
+    "difficulty": "easy",
+    "stem": "In a skilled nursing facility, a 21-year-old requires decision-making about ultrasound duty cycle selection. Which finding should the PT prioritize?",
+    "options": [
+      "Screen indications and contraindications, then select safe evidence-based parameters",
+      "Use maximum intensity regardless of tissue response",
+      "Apply treatment over absent sensation without testing",
+      "Continue despite adverse reactions"
+    ],
+    "correctIndex": 0,
+    "rationale": "Safe modality use depends on contraindication screening, dosage selection, and response monitoring."
+  },
+  {
+    "id": "auto",
+    "category": "Modalities",
+    "difficulty": "medium",
+    "stem": "In a outpatient clinic, a 48-year-old requires decision-making about e-stim near implanted pacemaker. What should be done first?",
+    "options": [
+      "Screen indications and contraindications, then select safe evidence-based parameters",
+      "Use maximum intensity regardless of tissue response",
+      "Apply treatment over absent sensation without testing",
+      "Continue despite adverse reactions"
+    ],
+    "correctIndex": 0,
+    "rationale": "Safe modality use depends on contraindication screening, dosage selection, and response monitoring."
+  },
+  {
+    "id": "auto",
+    "category": "Modalities",
+    "difficulty": "hard",
+    "stem": "In a skilled nursing facility, a 63-year-old requires decision-making about shortwave diathermy with metal implant. What should be done first?",
+    "options": [
+      "Screen indications and contraindications, then select safe evidence-based parameters",
+      "Use maximum intensity regardless of tissue response",
+      "Apply treatment over absent sensation without testing",
+      "Continue despite adverse reactions"
+    ],
+    "correctIndex": 0,
+    "rationale": "Safe modality use depends on contraindication screening, dosage selection, and response monitoring."
+  },
+  {
+    "id": "auto",
+    "category": "Modalities",
+    "difficulty": "easy",
+    "stem": "In a school gym, a 84-year-old requires decision-making about cold compression after surgery. Which finding should the PT prioritize?",
+    "options": [
+      "Screen indications and contraindications, then select safe evidence-based parameters",
+      "Use maximum intensity regardless of tissue response",
+      "Apply treatment over absent sensation without testing",
+      "Continue despite adverse reactions"
+    ],
+    "correctIndex": 0,
+    "rationale": "Safe modality use depends on contraindication screening, dosage selection, and response monitoring."
+  },
+  {
+    "id": "auto",
+    "category": "Modalities",
+    "difficulty": "medium",
+    "stem": "In a outpatient clinic, a 48-year-old requires decision-making about scar management timing. Which finding should the PT prioritize?",
+    "options": [
+      "Screen indications and contraindications, then select safe evidence-based parameters",
+      "Use maximum intensity regardless of tissue response",
+      "Apply treatment over absent sensation without testing",
+      "Continue despite adverse reactions"
+    ],
+    "correctIndex": 0,
+    "rationale": "Safe modality use depends on contraindication screening, dosage selection, and response monitoring."
+  },
+  {
+    "id": "auto",
+    "category": "Modalities",
+    "difficulty": "hard",
+    "stem": "In a intensive care unit, a 18-year-old requires decision-making about iontophoresis safety. Which response is most consistent with NPTE-level decision making?",
+    "options": [
+      "Screen indications and contraindications, then select safe evidence-based parameters",
+      "Use maximum intensity regardless of tissue response",
+      "Apply treatment over absent sensation without testing",
+      "Continue despite adverse reactions"
+    ],
+    "correctIndex": 0,
+    "rationale": "Safe modality use depends on contraindication screening, dosage selection, and response monitoring."
+  },
+  {
+    "id": "auto",
+    "category": "Modalities",
+    "difficulty": "easy",
+    "stem": "In a acute care unit, a 57-year-old requires decision-making about thermal agent with peripheral vascular disease. Which action is BEST?",
+    "options": [
+      "Screen indications and contraindications, then select safe evidence-based parameters",
+      "Use maximum intensity regardless of tissue response",
+      "Apply treatment over absent sensation without testing",
+      "Continue despite adverse reactions"
+    ],
+    "correctIndex": 0,
+    "rationale": "Safe modality use depends on contraindication screening, dosage selection, and response monitoring."
+  },
+  {
+    "id": "auto",
+    "category": "Modalities",
+    "difficulty": "medium",
+    "stem": "In a skilled nursing facility, a 45-year-old requires decision-making about modality choice for infected wound. Which action is BEST?",
+    "options": [
+      "Screen indications and contraindications, then select safe evidence-based parameters",
+      "Use maximum intensity regardless of tissue response",
+      "Apply treatment over absent sensation without testing",
+      "Continue despite adverse reactions"
+    ],
+    "correctIndex": 0,
+    "rationale": "Safe modality use depends on contraindication screening, dosage selection, and response monitoring."
+  }
+]
